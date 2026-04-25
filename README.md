@@ -9,7 +9,7 @@ Welcome to the **Certified Hazardous Materials Manager (CHMM)** comprehensive st
 
 | Days | Domain | Weight | Status |
 |------|--------|--------|--------|
-| 1-3 | Domain 1: Planning for Materials with Hazards | 10.71% | 📝 In Progress |
+| 1-3 | Domain 1: Planning for Materials with Hazards | 10.71% | 📝 Completed |
 | 4-5 | Domain 2: Shipping & Transporting | 8.57% | ⏳ Coming |
 | 6-7 | Domain 3: Storing Materials with Hazards | 7.14% | ⏳ Coming |
 | 8-9 | Domain 4: Facility Operations | 9.12% | ⏳ Coming |
