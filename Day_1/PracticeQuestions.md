@@ -12,8 +12,15 @@ B) RCRA — because it is now a solid/hazardous waste
 C) EPCRA — because it must be reported to the LEPC  
 D) DOT — because it will be transported offsite  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Once a useful material is discarded, it becomes a "solid waste" under RCRA. If it meets hazardous criteria, it becomes hazardous waste subject to RCRA cradle-to-grave management. TSCA governs chemicals in commerce, not discarded waste.
+
+</details>
 
 ---
 
@@ -24,8 +31,15 @@ B) OSHA under HAZWOPER
 C) DOT under 49 CFR  
 D) NRC under the Atomic Energy Act  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 DOT (specifically PHMSA under 49 CFR) governs the classification, packaging, labeling, and shipping of hazardous materials during transportation. OSHA HAZWOPER governs the worker safety aspects of the emergency response team that shows up, but the material classification and transport rules fall under DOT.
+
+</details>
 
 ---
 
@@ -36,8 +50,15 @@ B) DOT focuses on unreasonable risk during transport; EPA focuses on environment
 C) Both agencies use identical definitions under RCRA  
 D) EPA covers transportation and DOT covers disposal  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 DOT defines hazardous material as any substance posing unreasonable risk during transportation. EPA's hazardous material framework (especially under RCRA) focuses on threats from quantities, concentrations, or characteristics of discarded substances. These are distinct regulatory contexts.
+
+</details>
 
 ---
 
@@ -48,8 +69,15 @@ B) This can occur because the two regulatory systems use different criteria
 C) The chemical must automatically be regulated under CERCLA instead  
 D) Only EPA classification matters; DOT classification is voluntary  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 DOT and RCRA are independent regulatory systems with different criteria. A material can be hazardous under one framework but not the other. For example, a flammable gas shipped under DOT Class 2.1 may not meet RCRA hazardous waste criteria if it's not discarded.
+
+</details>
 
 ---
 
@@ -60,8 +88,15 @@ B) Civilian use of radioactive materials such as medical and research applicatio
 C) Transport of radioactive materials on public highways  
 D) Worker exposure to radiation in all federal facilities  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 NRC regulates civilian use of radioactive materials — nuclear power, medical, industrial, and academic uses. Military nuclear materials fall under DOE (Department of Energy). DOT regulates the transport of radioactive materials.
+
+</details>
 
 ---
 
@@ -72,8 +107,15 @@ B) OSHA under HazCom (29 CFR 1910.1200)
 C) DOT under 49 CFR 172  
 D) NRC under 10 CFR 20  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 OSHA HazCom governs hazardous chemicals in use in the workplace. RCRA applies when the material becomes a waste. Since the material is being used (not discarded), OSHA is the primary agency. TSCA also applies for chemicals in commerce, but among the answer choices, OSHA is the most directly applicable for workplace use.
+
+</details>
 
 ---
 
@@ -84,8 +126,15 @@ B) Issues permits for hazardous waste treatment facilities
 C) Assesses public health impacts from hazardous substance exposure, particularly at Superfund sites  
 D) Regulates the manufacture and import of new chemicals  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 ATSDR (Agency for Toxic Substances and Disease Registry) is part of CDC/HHS and focuses specifically on the public health dimension of toxic substance exposure. It produces toxicological profiles and Minimal Risk Levels (MRLs). It does not issue permits or enforce RCRA — that's EPA.
+
+</details>
 
 ---
 
@@ -96,8 +145,15 @@ B) TSCA
 C) EPCRA  
 D) CERCLA  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 EPCRA (Emergency Planning and Community Right-to-Know Act) — specifically Section 312 — requires facilities that store hazardous chemicals above threshold quantities to submit Tier I/Tier II inventory reports to the LEPC, SERC, and local fire department. This applies regardless of whether waste is generated.
+
+</details>
 
 ---
 
@@ -108,8 +164,15 @@ B) State and local government employees in states with OSHA-approved state plans
 C) Self-employed individuals with no employees  
 D) Federal civilian agency workers in states without state plans  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 OSHA does not have jurisdiction over self-employed individuals who have no employees. It also does not cover family farms with only immediate family members. Federal civilian agencies are covered under their own agency safety programs (not directly by OSHA, but they must comply with OSHA standards).
+
+</details>
 
 ---
 
@@ -120,8 +183,15 @@ B) The State Emergency Response Commission (SERC) only
 C) The National Response Center (NRC) at 1-800-424-8802  
 D) The EPA Regional Administrator directly  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 CERCLA Section 103 requires immediate notification to the National Response Center (NRC) when a Reportable Quantity of a hazardous substance is released. The NRC then notifies the appropriate federal and state agencies. The phone number 1-800-424-8802 is frequently tested.
+
+</details>
 
 ---
 
@@ -134,8 +204,15 @@ B) A flammable liquid
 C) A non-hazardous liquid  
 D) An oxidizer  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 OSHA defines flammable liquids as those with flash points below 100°F (37.8°C). Since 85°F is below 100°F, this is a flammable liquid. Combustible liquids under OSHA have flash points at or above 100°F but below 200°F.
+
+</details>
 
 ---
 
@@ -146,8 +223,15 @@ B) Diethyl ether will spontaneously ignite if the ambient temperature reaches 16
 C) Diethyl ether cannot burn below 160°C under any circumstances  
 D) 160°C is the temperature at which diethyl ether is safe to store  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 The AIT is the temperature at which a substance self-ignites without any external ignition source — no spark, no flame needed. At or above this temperature, the chemical ignites from heat alone. Diethyl ether's low AIT of 160°C makes it particularly dangerous in hot environments.
+
+</details>
 
 ---
 
@@ -158,8 +242,15 @@ B) The atmosphere is above the UEL and will not ignite in its current state, but
 C) The atmosphere is within the flammable range and will ignite with a spark  
 D) 20% methane is below the LEL so the atmosphere is safe  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 At 20%, methane is above its UEL of 15%, meaning the mixture is too rich (not enough oxygen) to ignite in its current state. However, this does NOT mean safe — the atmosphere is also extremely oxygen-deficient (normal air = 20.9% O₂; displaced by methane). Additionally, dilution back through the explosive range is a serious risk if the space is ventilated.
+
+</details>
 
 ---
 
@@ -170,8 +261,15 @@ B) In low-lying areas such as floor level, drains, and basements
 C) It will distribute uniformly throughout the building  
 D) It will rapidly exit through any exterior openings  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Vapor density >1 means the vapor is heavier than air and will sink to floor level, accumulate in drains, pits, and basements. This is critical for emergency response and confined space entry decisions. A vapor density of 2.1 means this vapor is 2.1 times heavier than air.
+
+</details>
 
 ---
 
@@ -182,8 +280,15 @@ B) Evaporate much more rapidly than water, producing higher atmospheric concentr
 C) Have a higher flash point than water  
 D) Be safer to handle because high vapor pressure indicates lower toxicity  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 High vapor pressure means the chemical readily evaporates into the atmosphere at room temperature. At 400 mmHg vs. water's 17.5 mmHg, this chemical is dramatically more volatile. Higher atmospheric concentrations increase both inhalation risk and fire/explosion risk. Vapor pressure has no direct relationship to toxicity or flash point.
+
+</details>
 
 ---
 
@@ -194,8 +299,15 @@ B) The temperature at which the liquid ignites and sustains continuous combustio
 C) The temperature at which the liquid spontaneously ignites without a spark  
 D) The temperature at which the liquid's vapor pressure equals atmospheric pressure  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 The fire point is slightly higher than the flash point. At the flash point, vapor ignites momentarily but does not sustain burning. At the fire point, enough vapor is produced to sustain continuous combustion. The AIT (autoignition temperature) is when self-ignition occurs without an ignition source.
+
+</details>
 
 ---
 
@@ -206,8 +318,15 @@ B) LEL = 4.0%, UEL = 75% (range of 71%)
 C) LEL = 10%, UEL = 15% (range of 5%)  
 D) LEL = 5%, UEL = 15% (range of 10%)  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 The widest flammable range represents the most hazardous situation because there are more concentration conditions under which ignition is possible. A range of 71% (such as hydrogen: LEL 4%, UEL 75%) is extremely hazardous. Hydrogen is the classic example of a wide-range flammable gas.
+
+</details>
 
 ---
 
@@ -218,8 +337,15 @@ B) Propane, because it is heavier than air and will sink and pool in low areas
 C) Both pose equal risk because they are both flammable  
 D) Neither, because natural gas detectors will alert before accumulation occurs  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Propane (vapor density 1.56) is heavier than air and will sink and accumulate in basements, crawl spaces, and floor drains. Methane (vapor density 0.55) is lighter than air and will rise. Both are flammable, but the accumulation behavior is dramatically different, requiring different ventilation strategies.
+
+</details>
 
 ---
 
@@ -230,8 +356,15 @@ B) Class 3
 C) Class 4, Division 4.1  
 D) Class 5, Division 5.1  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 DOT Class 3 covers flammable and combustible liquids. Class 2 covers gases (2.1 = flammable gas). Class 4 covers flammable solids. Class 5 covers oxidizers and organic peroxides.
+
+</details>
 
 ---
 
@@ -242,8 +375,15 @@ B) The storage room temperature exceeds the flash point, meaning flammable vapor
 C) The chemical's viscosity will decrease significantly at 30°C  
 D) There is no concern because flash point only applies during transport  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 If the ambient temperature exceeds the flash point, the liquid will continuously produce flammable vapors at dangerous concentrations. In this case, at 30°C (above the 25°C flash point), the storage room atmosphere could contain an ignitable vapor-air mixture. Proper ventilation, ignition source control, and appropriate storage temperatures are required.
+
+</details>
 
 ---
 
@@ -254,8 +394,15 @@ B) A solid that ignites spontaneously in air within 5 minutes
 C) A material that produces flammable gas when it contacts water  
 D) A material that requires an oxidizer to be hazardous  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 DOT 4.3 = Dangerous when wet (produces flammable gas on contact with water). 4.1 = Flammable solid. 4.2 = Spontaneously combustible (self-ignites in air). Examples of 4.3 materials: sodium metal, calcium carbide, lithium.
+
+</details>
 
 ---
 
@@ -266,8 +413,15 @@ B) This material reacts dangerously with water and water should not be used on a
 C) This material is a simple asphyxiant  
 D) This material is a carcinogen  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 The W̄ (W with a line through it) in the white quadrant of the NFPA 704 diamond indicates water reactivity — do not use water to extinguish fires involving this material. OX in the white quadrant indicates oxidizer, and SA indicates simple asphyxiant.
+
+</details>
 
 ---
 
@@ -278,8 +432,15 @@ B) Division 1.6
 C) Division 1.1  
 D) Division 1.3  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 Division 1.1 represents materials with mass explosion hazard — the most dangerous explosive classification. The entire mass of the shipment can detonate virtually instantaneously. Division 1.4 has minor explosion hazard (consumer fireworks), and 1.6 are extremely insensitive explosives.
+
+</details>
 
 ---
 
@@ -290,8 +451,15 @@ B) Class 5, Division 5.2
 C) Class 4, Division 4.2  
 D) Class 8  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Organic peroxides are classified as DOT Class 5, Division 5.2. They are particularly hazardous because they are both flammable (contain carbon) and oxidizing (contain the peroxide linkage -O-O-). Division 5.1 covers inorganic oxidizers.
+
+</details>
 
 ---
 
@@ -302,8 +470,15 @@ B) The material presents medium danger
 C) The material presents great danger and requires the most stringent packaging  
 D) The material is exempt from packaging requirements  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 DOT Packing Groups indicate the degree of hazard: PG I = Great danger (most stringent packaging), PG II = Medium danger, PG III = Minor danger (least stringent of the three). Classes 1, 2, 7, and infectious substances do not use packing groups.
+
+</details>
 
 ---
 
@@ -316,8 +491,15 @@ B) Chemical A, because a lower LD50 means it takes less of the substance to caus
 C) They are equally toxic because both are expressed in mg/kg  
 D) Cannot be determined without knowing the molecular weight  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 LD50 is the dose that kills 50% of a test population. Lower LD50 = more toxic (less substance needed to cause death). Chemical A at 50 mg/kg is 10 times more toxic than Chemical B at 500 mg/kg.
+
+</details>
 
 ---
 
@@ -328,8 +510,15 @@ B) Above 100 ppm, workers cannot escape within 30 minutes without irreversible h
 C) 100 ppm is the maximum H₂S concentration permitted by OSHA for an 8-hour shift  
 D) At 100 ppm, H₂S will cause immediate death  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 NIOSH defines IDLH as the maximum concentration from which a healthy worker could escape within 30 minutes without a respirator, without experiencing escape-impairing symptoms or irreversible health effects. Above the IDLH, SCBA is required. Note: H₂S is detectable by smell at very low concentrations, but olfactory fatigue occurs quickly, making it extremely dangerous.
+
+</details>
 
 ---
 
@@ -340,8 +529,15 @@ B) Use a Brief and Scala model or similar correction factor to adjust the TLV do
 C) Automatically assume a violation since the shift exceeds 8 hours  
 D) Multiply the TLV-TWA by 1.25 to account for the extra time  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 When shifts exceed 8 hours, the standard TLV-TWA must be adjusted downward because workers have less recovery time and receive higher cumulative doses. The Brief and Scala pharmacokinetic model is the standard ACGIH-recommended approach for adjusting TLVs for extended work shifts. Simply multiplying is not the correct method.
+
+</details>
 
 ---
 
@@ -352,8 +548,15 @@ B) Ingestion through the gastrointestinal tract
 C) Inhalation through the lungs  
 D) Injection through a puncture wound  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 Inhalation is typically the fastest route to systemic circulation because the alveolar-capillary interface in the lungs provides enormous surface area (approximately 70 m²) and very thin membranes, allowing rapid gas exchange directly into the bloodstream. This is why toxic gas emergencies can cause rapid collapse.
+
+</details>
 
 ---
 
@@ -364,8 +567,15 @@ B) Chronic carcinogen — causes leukemia with long-term low-level exposure
 C) Asphyxiant that displaces oxygen in confined spaces  
 D) Corrosive material that causes skin burns on contact  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Benzene is a confirmed human carcinogen (Group 1, IARC) that causes leukemia (particularly acute myeloid leukemia) with chronic low-level exposure. It is a volatile organic compound that is a component of gasoline and many industrial solvents. Benzene's chronic carcinogenicity is a classic CHMM exam topic.
+
+</details>
 
 ---
 
@@ -376,8 +586,15 @@ B) No, because the 8-hour TWA will likely be well below the TLV-TWA
 C) Yes, because the TLV-C is a ceiling value that must never be exceeded, even instantaneously  
 D) Only if the worker shows symptoms of exposure  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 TLV-C (Ceiling) is the concentration that should NEVER be exceeded, even for an instant. Unlike TWA or STEL, there is no time averaging — any exceedance is a violation regardless of duration. Ceiling values are typically set for substances with acute effects where even brief high exposures cause harm.
+
+</details>
 
 ---
 
@@ -388,8 +605,15 @@ B) Mercury concentrations are higher in tuna than in the small fish tuna eat, an
 C) Arsenic leaches from soil into groundwater following rain  
 D) Benzene evaporates from a contaminated pond into the surrounding air  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Biomagnification is the process by which chemical concentrations increase at each successive level of the food chain. Mercury (as methylmercury), PCBs, and DDT are classic biomagnifying substances. Answer A describes bioaccumulation in an individual organism, not magnification through a food chain.
+
+</details>
 
 ---
 
@@ -400,8 +624,15 @@ B) It is an oxidizer that causes secondary fires
 C) Fluoride ions penetrate deeply through skin and can cause systemic toxicity including cardiac arrest, even from small contact areas  
 D) It reacts with water to produce toxic gases  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 HF is uniquely dangerous because fluoride ions (F⁻) penetrate deeply through skin and tissue, react with calcium in bones and blood (forming calcium fluoride), and can cause life-threatening hypocalcemia and cardiac arrhythmias from what appears to be a minor skin contact area. Even dilute HF (concentrations <20%) can cause delayed, deep tissue damage. This is heavily tested because it's counterintuitive.
+
+</details>
 
 ---
 
@@ -412,8 +643,15 @@ B) Any substance can be toxic at a sufficient dose; toxicity is a function of do
 C) Only substances with specific chemical structures are capable of being toxic  
 D) Chronic exposures are always more dangerous than acute ones  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Paracelsus's principle — "sola dosis facit venenum" (the dose alone makes the poison) — means that virtually any substance can cause harm at a sufficient dose, even water (hyponatremia). Conversely, very toxic substances may be safe at extremely low doses. This is the foundation of toxicology and dose-response relationships.
+
+</details>
 
 ---
 
@@ -424,8 +662,15 @@ B) Beta particles — require thick concrete
 C) Gamma rays — require lead or thick concrete shielding  
 D) Neutron radiation — requires paper shielding  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 Gamma rays are highly penetrating electromagnetic radiation requiring lead or thick concrete for adequate shielding. Alpha particles are stopped by paper or skin (but are dangerous internally). Beta particles are stopped by thin aluminum or plastic. Neutron radiation requires hydrogen-rich materials (water, polyethylene, concrete) for effective shielding.
+
+</details>
 
 ---
 
@@ -436,8 +681,15 @@ B) Dermal absorption
 C) Inhalation  
 D) Subcutaneous injection  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 LC50 (Lethal Concentration 50) is specifically for inhalation exposure — it represents the concentration of a substance in air that kills 50% of test animals. LD50 (Lethal Dose 50) is used for oral, dermal, or injection routes and is expressed in mg/kg of body weight.
+
+</details>
 
 ---
 
@@ -448,8 +700,15 @@ B) Chronic toxicity — a long-term health effect following repeated exposures o
 C) An idiosyncratic reaction unique to that individual  
 D) A teratogenic effect  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Chronic toxicity involves health effects that develop after repeated or prolonged exposures, often with a long latency period before symptoms appear. Cancer from occupational chemical exposure is the classic example. Carcinogenesis can have a latency period of 10-40 years. This is distinct from acute toxicity (single exposure, rapid onset).
+
+</details>
 
 ---
 
@@ -460,8 +719,15 @@ B) It is lipophilic and likely to bioaccumulate in fatty tissues of organisms
 C) It will rapidly degrade in the environment  
 D) It poses primarily an inhalation hazard rather than a water contamination concern  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Log Kow (octanol-water partition coefficient) measures a chemical's preference for organic/fatty vs. water environments. High log Kow = lipophilic = tends to accumulate in fatty tissues (bioaccumulation). PCBs, DDT, dioxins, and many chlorinated compounds have high Kow values and are classic bioaccumulators. Low Kow = hydrophilic = stays in water.
+
+</details>
 
 ---
 
@@ -472,8 +738,15 @@ B) The chemical has a strong tendency to volatilize from water into the air
 C) The chemical readily binds to soil organic matter  
 D) The chemical has a low vapor pressure and won't evaporate quickly  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Henry's Law constant describes the equilibrium distribution of a chemical between water and air. A high Henry's constant means the chemical preferentially partitions into the air phase — it volatilizes readily from water. This is important for understanding how VOCs (volatile organic compounds) in contaminated groundwater or soil behave and affect air quality.
+
+</details>
 
 ---
 
@@ -484,8 +757,15 @@ B) Measure the atmosphere and allow entry if readings are below the PEL
 C) Stop entry immediately — olfactory fatigue from H₂S occurs rapidly and the apparent smell may mask dangerous concentrations  
 D) Provide supplied air respirators and continue entry as planned  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 H₂S causes olfactory fatigue (paralysis of the sense of smell) very rapidly — workers can lose the ability to smell it just as concentrations reach dangerous levels. The ability to smell H₂S is not a reliable indicator of safe concentration. The CHMM exam tests this olfactory fatigue concept frequently. Air monitoring instruments must be used — never rely on smell for H₂S.
+
+</details>
 
 ---
 
@@ -498,8 +778,15 @@ B) Caution
 C) Danger  
 D) Hazard  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 GHS uses exactly two signal words: "Danger" (more severe hazard category) and "Warning" (less severe hazard category). "Caution" and "Hazard" are not GHS signal words. Only one signal word appears on a label — if a product has both Danger and Warning category hazards, only "Danger" appears.
+
+</details>
 
 ---
 
@@ -510,8 +797,15 @@ B) Section 7 — Handling and Storage
 C) Section 8 — Exposure Controls/Personal Protection  
 D) Section 11 — Toxicological Information  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 Section 8 (Exposure Controls/Personal Protection) contains PELs, TLVs, engineering controls, and specific PPE recommendations including glove type, respiratory protection, eye protection, and body protection. Section 7 covers safe handling practices but does not include specific PPE specifications.
+
+</details>
 
 ---
 
@@ -522,8 +816,15 @@ B) Section 9 — Physical and Chemical Properties
 C) Section 10 — Stability and Reactivity  
 D) Section 12 — Ecological Information  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 Section 10 (Stability and Reactivity) covers conditions to avoid, materials to avoid (incompatibilities), and hazardous decomposition products. This is the section for understanding chemical incompatibilities, reactivity with water or air, and stability conditions.
+
+</details>
 
 ---
 
@@ -534,8 +835,15 @@ B) Corrosion pictogram
 C) Flame pictogram  
 D) Exploding bomb  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Concentrated sulfuric acid is a corrosive material — it destroys skin and eye tissue on contact and is corrosive to metals. The corrosion pictogram (showing material eating through a surface and a hand) is appropriate. Sulfuric acid is not classified as acutely toxic at skull/crossbones level in all concentrations, though highly concentrated H₂SO₄ may carry additional hazard classifications.
+
+</details>
 
 ---
 
@@ -546,8 +854,15 @@ B) Skin or eye irritation
 C) Carcinogens, reproductive toxins, respiratory sensitizers, STOT, aspiration hazards  
 D) Compressed gases  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 The Health Hazard pictogram covers serious long-term health effects: carcinogens, mutagens, reproductive toxins, respiratory sensitizers, specific target organ toxicity (STOT — single or repeated exposure), and aspiration hazards. The skull and crossbones covers acute lethality. The exclamation mark covers irritants and less severe acute toxicity.
+
+</details>
 
 ---
 
@@ -558,8 +873,15 @@ B) Sections 1-11 and Section 16; Sections 12-15 are required to be present but n
 C) Only Sections 1, 2, 8, and 11  
 D) Sections 1-8 only  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 OSHA HazCom requires Sections 1-11 and 16 to contain accurate information. Sections 12-15 (ecological information, disposal, transport, regulatory) are governed by other agencies (EPA, DOT), so OSHA does not enforce their content — but they must be present in the SDS even if they state "not applicable."
+
+</details>
 
 ---
 
@@ -570,8 +892,15 @@ B) Section 3 — Composition/Information on Ingredients
 C) Section 9 — Physical and Chemical Properties  
 D) Section 15 — Regulatory Information  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 CAS numbers are located in Section 3 (Composition/Information on Ingredients). CAS numbers are unique numerical identifiers assigned to chemical substances by the American Chemical Society. They are used to identify specific chemicals unambiguously across different languages and trade names.
+
+</details>
 
 ---
 
@@ -582,8 +911,15 @@ B) Skin irritation, harmful if inhaled, or acute toxicity at a less severe level
 C) Mass explosion hazard  
 D) Reproductive toxicity  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 The Exclamation Mark pictogram covers less severe hazard categories including: skin sensitizer, eye irritation, skin irritation, harmful acute toxicity (oral/dermal/inhalation at Category 4), specific target organ toxicity — single exposure (Category 3), and substances hazardous to the ozone layer. Carcinogens and reproductive toxins use the Health Hazard pictogram.
+
+</details>
 
 ---
 
@@ -594,8 +930,15 @@ B) Section 9 — Physical and Chemical Properties
 C) Section 3 — Composition/Ingredients  
 D) Section 10 — Stability and Reactivity  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Section 9 (Physical and Chemical Properties) contains physical state, color, odor, odor threshold, pH, melting/freezing point, boiling point, flash point, evaporation rate, flammability, vapor pressure, vapor density, relative density, solubility, partition coefficient (log Kow), autoignition temperature, and decomposition temperature.
+
+</details>
 
 ---
 
@@ -606,8 +949,15 @@ B) Section 5 — Fire-Fighting Measures
 C) Section 6 — Accidental Release Measures  
 D) Section 8 — Exposure Controls/PPE  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Section 5 (Fire-Fighting Measures) covers suitable extinguishing media, unsuitable extinguishing media (e.g., do not use water), special hazards arising from combustion, and advice for firefighters including PPE. This is the first section responders consult for fire situations.
+
+</details>
 
 ---
 
@@ -618,8 +968,15 @@ B) All gases including compressed, liquefied, refrigerated liquefied, and dissol
 C) Only toxic gases  
 D) Only gases with vapor pressures above 300 kPa  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 The Gas Cylinder pictogram applies to all gases under pressure — compressed gases, liquefied gases, refrigerated liquefied gases, and dissolved gases. The physical hazard of pressure (explosion of the container if heated) is the primary concern, regardless of whether the gas is flammable, toxic, or inert.
+
+</details>
 
 ---
 
@@ -630,8 +987,15 @@ B) Re-label the secondary container immediately with at minimum the product iden
 C) Consult the SDS and verbally inform workers of the hazard  
 D) Discard the chemical and order a fresh supply  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 OSHA HazCom requires that all containers of hazardous chemicals in the workplace be labeled. Secondary containers must include at minimum the product identifier and hazard information. Labels that are removed or defaced must be replaced immediately. Verbal communication alone does not satisfy the labeling requirement.
+
+</details>
 
 ---
 
@@ -642,8 +1006,15 @@ B) Section 11 — Toxicological Information
 C) Section 14 — Transport Information  
 D) Section 15 — Regulatory Information  
 
-**Answer: D**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: D**
+
+**Explanation:**
 Section 15 (Regulatory Information) lists the chemical's status under various federal and state regulations including SARA Title III, TSCA, RCRA, California Proposition 65, and other applicable laws. This is the regulatory compliance reference section.
+
+</details>
 
 ---
 
@@ -654,8 +1025,15 @@ B) With the first shipment of a hazardous chemical and upon request thereafter
 C) Only when OSHA conducts an inspection  
 D) Annually, regardless of shipment frequency  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 OSHA HazCom requires chemical manufacturers, importers, and distributors to provide an SDS with the first shipment of a hazardous chemical to a new customer. Updated SDS must be provided when significant new hazard information becomes available. Employers must make SDS accessible to employees at all times during their work shift.
+
+</details>
 
 ---
 
@@ -666,8 +1044,15 @@ B) For chemicals that are marine pollutants under DOT
 C) It is NOT required under OSHA HazCom — it is voluntary in the US  
 D) Only for chemicals shipped internationally  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 The environmental pictogram is NOT part of OSHA's HazCom 2012 requirements. OSHA chose not to adopt the environmental hazard classification in its GHS implementation. It is voluntary for use in the US. DOT has its own marine pollutant designation for transport. This is a frequent trick question on the CHMM exam.
+
+</details>
 
 ---
 
@@ -680,8 +1065,15 @@ B) D002 — Corrosive
 C) D003 — Reactive  
 D) Not hazardous because pH alone doesn't determine RCRA classification  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 RCRA defines corrosive characteristic (D002) as an aqueous liquid with pH ≤ 2 or pH ≥ 12.5, OR a liquid that corrodes steel at a rate greater than 6.35 mm per year at 55°C. pH 1.8 is ≤ 2, therefore this is a D002 corrosive hazardous waste.
+
+</details>
 
 ---
 
@@ -692,8 +1084,15 @@ B) D002 — Corrosivity
 C) D003 — Reactivity  
 D) D004-D043 — Toxicity  
 
-**Answer: D**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: D**
+
+**Explanation:**
 The Toxicity Characteristic Leaching Procedure (TCLP) simulates the leaching of chemicals from a waste in a landfill environment. If the leachate exceeds regulatory limits for any of the 40 listed chemicals (metals, pesticides, solvents), the waste exhibits the toxicity characteristic and is classified D004-D043.
+
+</details>
 
 ---
 
@@ -704,8 +1103,15 @@ B) D002 — Corrosive
 C) D003 — Reactive  
 D) D004 — Toxicity (arsenic)  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 D003 Reactive characteristic includes materials that: react violently with water, generate toxic gases when mixed with water, are normally unstable, or are capable of detonation. Generating toxic gases on water contact is specifically one of the D003 criteria.
+
+</details>
 
 ---
 
@@ -716,8 +1122,15 @@ B) No — the flash point must be below 37.8°C (100°F) to be ignitable
 C) Yes — any waste with a flash point below 100°C is D001  
 D) No — only solid wastes can be D001  
 
-**Answer: A**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: A**
+
+**Explanation:**
 RCRA defines ignitable characteristic (D001) for liquids as having a flash point below 60°C (140°F). A flash point of 50°C is below 60°C, so this is a D001 ignitable hazardous waste. Note: OSHA uses a different threshold (100°F/37.8°C) for "flammable liquid" — these are different regulatory systems.
+
+</details>
 
 ---
 
@@ -728,8 +1141,15 @@ B) Not hazardous for the toxicity characteristic for lead
 C) Must be treated before classification can be made  
 D) Still requires F-list evaluation  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 4.8 mg/L is below the TCLP limit of 5.0 mg/L for lead (D008). Therefore, this waste does NOT exhibit the toxicity characteristic for lead. Note: the waste must still be evaluated for all other characteristics and listed waste categories — passing the lead TCLP alone doesn't make the waste non-hazardous overall.
+
+</details>
 
 ---
 
@@ -740,8 +1160,15 @@ B) Hazardous waste is tracked and regulated from the point of generation through
 C) Only the generator and the disposal facility are regulated, not transporters  
 D) The regulation applies only to wastes from birth (manufacturing) to death (consumer disposal)  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 RCRA's cradle-to-grave concept means every step of a hazardous waste's life cycle is regulated: generation → storage → transportation → treatment → disposal. Generators, transporters, and Treatment, Storage, and Disposal Facilities (TSDFs) all have distinct RCRA obligations. No step is outside the regulatory reach.
+
+</details>
 
 ---
 
@@ -752,12 +1179,19 @@ B) Wastes from non-specific sources (spent halogenated solvents used in degreasi
 C) Wastes from specific industries such as petroleum refining  
 D) Discarded commercial chemical products  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 RCRA listed wastes have four categories:
 - **F-list:** Non-specific source wastes (solvents used across many industries)
 - **K-list:** Source-specific wastes (from specific industries like petroleum refining, pesticide manufacturing)
 - **P-list:** Acutely hazardous discarded commercial chemical products
 - **U-list:** Toxic discarded commercial chemical products
+
+</details>
 
 F001 specifically covers spent halogenated solvents used in degreasing (tetrachloroethylene, trichloroethylene, etc.).
 
@@ -770,8 +1204,15 @@ B) K-list
 C) P-list or U-list  
 D) D-list (characteristics)  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 P-list and U-list wastes are discarded commercial chemical products — unused or off-spec chemicals being thrown away. P-list chemicals are acutely hazardous; U-list chemicals are toxic. If the product appears on the P or U list and is being discarded, it is automatically a listed hazardous waste regardless of quantity or characteristics.
+
+</details>
 
 ---
 
@@ -782,8 +1223,15 @@ B) Small Quantity Generator (SQG)
 C) Large Quantity Generator (LQG)  
 D) Episodic Generator  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 Large Quantity Generators (LQGs) generate ≥1,000 kg of hazardous waste per month (or ≥1 kg of acutely hazardous waste). They have the most stringent requirements: unlimited on-site accumulation time is NOT allowed (90-day limit), full contingency plan required, employee training, manifests required for all shipments. CESQGs generate <100 kg/month and have the fewest requirements.
+
+</details>
 
 ---
 
@@ -794,8 +1242,15 @@ B) Recycle or reuse the waste on-site
 C) Prevent or reduce waste generation at the source  
 D) Safely dispose of the waste in a permitted facility  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 The Pollution Prevention (P2) Act hierarchy places source reduction at the top — prevent the waste from being generated in the first place. Then recycling/recovery, then treatment, and finally safe disposal as the last resort. This is tested heavily in Domain 1 planning scenarios.
+
+</details>
 
 ---
 
@@ -806,8 +1261,15 @@ B) K-list — source-specific industry wastes
 C) P-list — acutely hazardous commercial products  
 D) U-list — toxic commercial products  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 K-list wastes come from specific industries — pesticide manufacturing, petroleum refining, organic chemical manufacturing, wood preservation, and others. The wastes are tied to specific production processes within specific industries. K-list designations identify both the industry and the specific waste stream.
+
+</details>
 
 ---
 
@@ -818,8 +1280,15 @@ B) A sludge from a wastewater treatment plant
 C) An in-process material being used as an ingredient in a production process  
 D) Gaseous material released to the air from an industrial process  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 Materials that are legitimately being used as raw materials or ingredients in ongoing production processes are generally NOT solid wastes under RCRA — they are still in productive use. RCRA exempts materials that have not been discarded. Note: RCRA does cover gases and liquids — "solid waste" is a legal term, not a physical description.
+
+</details>
 
 ---
 
@@ -830,8 +1299,15 @@ B) TSCA
 C) CERCLA (Comprehensive Environmental Response, Compensation, and Liability Act)  
 D) EPCRA  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 CERCLA, passed in 1980, created the Superfund program for cleaning up uncontrolled or abandoned hazardous waste sites. It established strict, joint and several liability for contamination, meaning any responsible party can be held liable for the entire cleanup cost. RCRA deals with active hazardous waste management; CERCLA deals with past contamination cleanup.
+
+</details>
 
 ---
 
@@ -842,8 +1318,15 @@ B) D001 only — ignitable hazardous waste
 C) D009 only — mercury toxicity characteristic  
 D) The waste must be evaluated for ALL characteristics; it is D001 ignitable hazardous waste regardless of the mercury result  
 
-**Answer: D**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: D**
+
+**Explanation:**
 A waste can exhibit multiple RCRA characteristics simultaneously. Even though the mercury TCLP result is below the limit (so D009 doesn't apply), the D001 ignitable characteristic still applies. The waste is classified as a D001 hazardous waste. A waste only needs to meet ONE characteristic or be on ONE list to be regulated as hazardous under RCRA.
+
+</details>
 
 ---
 
@@ -854,8 +1337,15 @@ B) The person whose act or process first causes a material to become a hazardous
 C) The facility that treats or disposes of the waste  
 D) The government agency that regulates the waste  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 The generator is defined by RCRA as "any person, by site, whose act or process produces hazardous waste." The generator has primary responsibility for proper characterization, manifesting, and ensuring the waste goes to a proper facility. Generators cannot transfer liability by hiring a transporter — they remain responsible under RCRA's cradle-to-grave system.
+
+</details>
 
 ---
 
@@ -868,8 +1358,15 @@ B) To enable local emergency planning committees to plan appropriate emergency r
 C) To obtain a permit to store the material  
 D) To publish the information in local newspapers  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 EPCRA's emergency planning provisions (Sections 301-303) require facilities with EHS above TPQs to notify the LEPC so that community emergency response plans can account for the potential hazard. This is the right-to-know framework — LEPCs use this information to develop Local Emergency Planning programs and train responders.
+
+</details>
 
 ---
 
@@ -880,8 +1377,15 @@ B) LEPC only
 C) SERC (State Emergency Response Commission), LEPC, and local fire department  
 D) National Response Center only  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 Tier II reports (annual chemical inventory reports) must be submitted by March 1 of each year to: the State Emergency Response Commission (SERC), the Local Emergency Planning Committee (LEPC), and the local fire department. EPA can also request Tier II reports but they are not routinely submitted to EPA.
+
+</details>
 
 ---
 
@@ -892,8 +1396,15 @@ B) Facilities that have listed highly hazardous chemicals at or above specified 
 C) Only chemical manufacturing plants with more than 500 employees  
 D) All RCRA-regulated facilities  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 OSHA's Process Safety Management (PSM) standard covers facilities that have covered highly hazardous chemicals (flammable liquids, gases, toxic chemicals) at or above specified threshold quantities. PSM requires Process Hazard Analysis, operating procedures, employee training, pre-startup safety review, mechanical integrity program, and emergency planning for covered processes.
+
+</details>
 
 ---
 
@@ -904,8 +1415,15 @@ B) Workers involved in hazardous waste operations, treatment/storage/disposal fa
 C) Only EPA contractors performing Superfund cleanups  
 D) Workers at chemical manufacturing plants only  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 HAZWOPER covers: (1) hazardous waste site cleanup operations, (2) corrective actions at RCRA facilities, (3) voluntary cleanup operations, (4) operations at TSDFs, and (5) emergency response to releases of hazardous substances regardless of location. It requires training levels from Awareness through 8-hour refresher for experienced workers, and specialized training for emergency responders.
+
+</details>
 
 ---
 
@@ -916,8 +1434,15 @@ B) It contains or has a potential to contain a serious safety or health hazard i
 C) It requires a ladder to enter  
 D) Any confined space automatically requires a permit  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Under OSHA 29 CFR 1910.146, a permit-required confined space (PRCS) must be large enough to enter AND have limited means of entry/exit AND contain or have potential to contain serious hazards (toxic atmosphere, engulfment hazard, internal configuration that could trap workers, or any other recognized serious safety hazard). Spaces that only have limited entry/exit but no hazards are non-permit-required confined spaces.
+
+</details>
 
 ---
 
@@ -928,8 +1453,15 @@ B) Annual reporting of toxic chemical releases to the environment and waste mana
 C) Monthly reporting of chemical inventory to the SERC  
 D) Biennial reporting of Superfund site progress to Congress  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 TRI (Section 313) requires facilities in covered industries to annually report their releases of listed toxic chemicals to air, water, land, and underground injection, as well as quantities transferred off-site. Reports are submitted to EPA by July 1 each year. This data is publicly available in the TRI database (ECHO system).
+
+</details>
 
 ---
 
@@ -940,8 +1472,15 @@ B) 29 CFR 1910.134 (Respiratory Protection)
 C) 29 CFR 1910.1200 (HazCom)  
 D) 29 CFR 1910.119 (PSM)  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 29 CFR 1910.134 is OSHA's Respiratory Protection standard. It requires employers to establish a written respiratory protection program including: hazard assessment, respirator selection, medical evaluation, fit testing, training, use, and maintenance. Medical clearance before use and annual fit testing are key requirements.
+
+</details>
 
 ---
 
@@ -952,8 +1491,15 @@ B) TSCA gives EPA authority to require testing and to restrict or ban chemical s
 C) TSCA applies only to chemicals manufactured after 1976  
 D) TSCA is administered jointly by EPA and OSHA  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 TSCA (Toxic Substances Control Act, 1976, significantly amended by LCSA in 2016) gives EPA authority to require manufacturers to test chemicals, to restrict use of chemicals that pose unreasonable risks, and to ban substances (like PCBs and asbestos). TSCA also requires pre-manufacture notice (PMN) for new chemicals before commercial manufacture.
+
+</details>
 
 ---
 
@@ -964,8 +1510,15 @@ B) EPCRA Section 302 — Extremely Hazardous Substance Notification and Emergenc
 C) EPCRA Section 313 — Toxics Release Inventory  
 D) EPCRA Section 311 — MSDS/SDS Submission  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 EPCRA Section 302 requires facilities with EHS (chlorine is an EHS) above TPQs to notify the LEPC and designate a facility emergency response coordinator. This triggers local emergency planning that includes the facility's hazardous materials in community response plans.
+
+</details>
 
 ---
 
@@ -976,8 +1529,15 @@ B) No, notification is only required if the release equals or exceeds the Report
 C) Yes, TCE always requires notification regardless of quantity  
 D) No, TCE is not a CERCLA hazardous substance  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 NRC notification is only required when the released quantity equals or exceeds the Reportable Quantity (RQ) for that substance. TCE's RQ is 100 pounds. A 2-pound release does not trigger NRC notification under CERCLA. However, state regulations may have lower thresholds, so state requirements should always be checked separately.
+
+</details>
 
 ---
 
@@ -988,8 +1548,15 @@ B) Fixed facility structures such as buildings, tanks, and storage areas
 C) Emergency response vehicles  
 D) Shipping documents and manifests  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 NFPA 704 applies to fixed facilities — buildings, tanks, and storage areas — to provide emergency responders with immediate chemical hazard information when they approach. It is NOT for use on individual containers or transport packaging (DOT labels and placards serve that function). The two systems are complementary but serve different purposes.
+
+</details>
 
 ---
 
@@ -1000,8 +1567,15 @@ B) HAZWOPER
 C) Process Safety Management (PSM) — ammonia is a listed PSM chemical with a threshold of 10,000 pounds  
 D) Confined Space Entry (1910.146)  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 Ammonia is both an EPCRA EHS and an OSHA PSM-listed chemical with a PSM threshold quantity of 10,000 pounds. At 10,000 pounds stored, both EPCRA emergency planning requirements AND OSHA PSM requirements are triggered simultaneously. PSM and EPCRA's RMP (Risk Management Program) are often triggered together for the same facilities.
+
+</details>
 
 ---
 
@@ -1012,8 +1586,15 @@ B) To provide emergency responders and planning agencies with information about 
 C) To satisfy RCRA reporting requirements for hazardous waste disposal  
 D) To obtain insurance coverage for chemical spill liability  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 The HMBP (required in California and several other states) provides emergency responders, employees, and planning agencies with critical information: what hazardous materials are stored, where they are located, in what quantities, and what emergency procedures are in place. Its primary purpose is community right-to-know and emergency planning.
+
+</details>
 
 ---
 
@@ -1024,8 +1605,15 @@ B) Develop and submit a Risk Management Plan if they have regulated substances a
 C) Report all air emissions to the local fire department annually  
 D) Install continuous air monitoring systems for all regulated pollutants  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 The RMP rule requires facilities with regulated substances (many overlap with OSHA PSM chemicals) above threshold quantities to develop and submit an RMP to EPA. The plan includes: hazard assessment (worst-case and alternative release scenarios), a 5-year accident history, prevention program, and emergency response program. The RMP is publicly accessible — community right-to-know.
+
+</details>
 
 ---
 
@@ -1036,8 +1624,15 @@ B) Clean Water Act (CWA); report to the National Response Center
 C) CERCLA; report to the LEPC  
 D) EPCRA; report to the SERC  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Unpermitted discharges to navigable waters violate the Clean Water Act (CWA). Under CWA Section 311, spills of oil and hazardous substances that may affect navigable waters must be reported to the National Response Center at 1-800-424-8802. RCRA governs waste management, not water discharges; that's CWA territory.
+
+</details>
 
 ---
 
@@ -1050,8 +1645,15 @@ B) Asbestos-containing materials (ACM)
 C) Mercury in thermostats  
 D) Lead-based paint  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Buildings constructed before 1980 (especially pre-1970) commonly contain asbestos in insulation, floor tiles, ceiling tiles, pipe lagging, and roofing materials. EPA regulations (NESHAP) and OSHA (29 CFR 1926.1101) require surveys for ACM before renovation or demolition. Asbestos is the most pervasive legacy building hazard and is most commonly tested in this context.
+
+</details>
 
 ---
 
@@ -1062,8 +1664,15 @@ B) Sample and analyze the material by an accredited laboratory using Polarized L
 C) Assume all fibrous materials are asbestos and apply OSHA's asbestos construction standard  
 D) Only renovate after the building is at least 50 years old  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Suspected ACM must be sampled by accredited inspectors and analyzed by accredited laboratories using PLM (for bulk materials) or TEM (for airborne fibers). You cannot assume a material is or isn't asbestos without testing — and you also cannot assume all fibrous materials are asbestos. The AHERA (Asbestos Hazard Emergency Response Act) requires these accreditation standards.
+
+</details>
 
 ---
 
@@ -1074,8 +1683,15 @@ B) When it is deteriorated, chalking, chipping, or subject to impact/friction th
 C) When the building is more than 100 years old  
 D) Only in buildings where children under 18 live  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Intact, well-maintained lead-based paint is considered a lower risk. The primary hazard is created when LBP deteriorates, is disturbed by renovation, or is subject to friction/impact that generates lead dust or chips. Children under 6 are most vulnerable (hand-to-mouth ingestion of lead dust). EPA's RRP (Renovation, Repair, and Painting) Rule requires certified contractors for work in pre-1978 housing where children under 6 or pregnant women reside.
+
+</details>
 
 ---
 
@@ -1086,8 +1702,15 @@ B) Electrical transformers and capacitors manufactured before 1979
 C) Heating system ductwork  
 D) Natural gas piping  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 PCBs were widely used as dielectric fluids in electrical transformers and capacitors due to their excellent insulating and fire-resistant properties. They were banned in the US in 1979 under TSCA. Buildings with older electrical equipment — especially large transformers — are the primary location for PCB surveys. PCB spills from transformer leaks are regulated under TSCA and require specific cleanup procedures.
+
+</details>
 
 ---
 
@@ -1098,8 +1721,15 @@ B) This is at the upper end of EPA's acceptable risk range of 10⁻⁶ to 10⁻�
 C) This is well below EPA's concern threshold and no action is needed  
 D) EPA always requires remediation whenever cancer risk exceeds zero  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 EPA's acceptable risk range for carcinogenic risks at Superfund sites is typically 10⁻⁶ (1 in 1,000,000) to 10⁻⁴ (1 in 10,000). A risk of 1 × 10⁻⁴ is at the upper boundary — action is often triggered. Risk below 10⁻⁶ is generally considered acceptable with no further action needed. This concept appears in Domain 1 risk assessment and Domain 9 remediation.
+
+</details>
 
 ---
 
@@ -1110,8 +1740,15 @@ B) Class B only (CO₂ or dry chemical for flammable liquids)
 C) Class BC or ABC dry chemical, or CO₂  
 D) Class D (dry powder for metal fires)  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 For a lab with flammable solvents (Class B fire hazard) and electrical equipment (Class C hazard), a Class BC or ABC extinguisher is appropriate. CO₂ extinguishers are excellent for this combination because they don't leave residue and are safe on energized electrical equipment. Water-based Class A extinguishers are dangerous on electrical fires and ineffective on flammable liquid fires.
+
+</details>
 
 ---
 
@@ -1122,8 +1759,15 @@ B) The chemical has low water solubility and binds strongly to soil organic matt
 C) The chemical poses primarily an inhalation hazard rather than groundwater contamination  
 D) The chemical degrades quickly in the soil environment  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 High Koc = strong binding to soil organic carbon = low groundwater mobility. This chemical stays near the source area, which may actually complicate remediation (can't flush it out with water easily) but limits far-field groundwater migration. Low Koc chemicals are highly mobile in groundwater and can travel long distances from the source.
+
+</details>
 
 ---
 
@@ -1134,8 +1778,15 @@ B) They are highly water-soluble and quickly dilute in aquatic environments
 C) They are resistant to environmental degradation, bioaccumulate in food chains, and can travel long distances through air and water  
 D) They primarily affect industrial workers rather than general populations  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 POPs (including PCBs, dioxins, furans, DDT, and others) are characterized by: persistence (resistant to degradation), bioaccumulation and biomagnification potential (high Kow), long-range transport capability (volatilize and re-deposit globally in a "grasshopper effect"), and toxicity. They are regulated internationally under the Stockholm Convention (2004).
+
+</details>
 
 ---
 
@@ -1146,8 +1797,15 @@ B) The lower ACGIH TLV of 25 ppm — OSHA PELs are outdated and ACGIH values ref
 C) The midpoint of 62.5 ppm as a compromise  
 D) Whichever standard is more convenient for the specific workplace  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 OSHA's PELs were largely set in 1971 and have not been comprehensively updated. Many are now considered health-protective only at a minimal level. NIOSH and ACGIH regularly update their values based on current research. The professional standard is to use the most health-protective value available. Using outdated PELs alone does not represent best practice for a CHMM. This concept is directly tested.
+
+</details>
 
 ---
 
@@ -1158,8 +1816,15 @@ B) Store in cool conditions away from heat, ignition sources, and incompatible m
 C) Store with flammable liquids because organic peroxides are compatible with hydrocarbons  
 D) No special storage required beyond standard flammable storage  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Organic peroxides are self-reactive and temperature-sensitive. They can decompose explosively if overheated. They must be stored in cool, temperature-controlled conditions away from heat, sparks, reducing agents, flammables, AND inorganic oxidizers. Many organic peroxides have a Self-Accelerating Decomposition Temperature (SADT) that must not be exceeded.
+
+</details>
 
 ---
 
@@ -1170,8 +1835,15 @@ B) Chloramine gas
 C) Hydrogen cyanide (HCN)  
 D) Carbon monoxide (CO)  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Chlorine bleach (sodium hypochlorite) + ammonia → chloramine gases (NH₂Cl, NHCl₂, NCl₃). Chloramines are toxic respiratory irritants. This is a common household and workplace accident scenario. The CHMM exam tests chemical incompatibilities — chlorine bleach + acids produce chlorine gas; bleach + ammonia produces chloramines.
+
+</details>
 
 ---
 
@@ -1182,8 +1854,15 @@ B) Toxic hydrogen cyanide (HCN) gas — immediately dangerous to life
 C) A corrosive spill with no additional hazard  
 D) Reactive nitrogen compounds  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Acids + cyanide salts produce hydrogen cyanide (HCN) gas — one of the most rapidly acting poisons known. HCN prevents cellular respiration by binding to cytochrome c oxidase. This is a critical incompatibility in laboratory waste management. Many multi-chemical waste stream accidents occur from this reaction. Always segregate cyanide wastes from acids.
+
+</details>
 
 ---
 
@@ -1194,8 +1873,15 @@ B) Below-grade spaces such as basements and crawl spaces with poor ventilation, 
 C) Attic spaces where heat accumulates  
 D) Buildings with asbestos ceiling tiles, because radon adheres to asbestos fibers  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Radon (Rn-222) is produced by the decay of radium in uranium-bearing soils and rock. It seeps into buildings through foundation cracks, particularly accumulating in poorly ventilated below-grade spaces. It is the second leading cause of lung cancer in the US after smoking. Mitigation involves sub-slab depressurization systems and enhanced ventilation.
+
+</details>
 
 ---
 
@@ -1206,8 +1892,15 @@ B) They must be segregated — acids mixed with cyanides produce lethal HCN gas
 C) They can be stored together if both are in closed drums  
 D) Only separation by a fire wall is required  
 
-**Answer: B**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: B**
+
+**Explanation:**
 Sulfuric acid + sodium cyanide → hydrogen cyanide gas. Even vapor from acid-contaminated containers reaching cyanide containers can produce HCN. Physical segregation — separate storage areas, separate ventilation systems, clear incompatibility labeling — is mandatory. This is not satisfied by simply keeping drums closed.
+
+</details>
 
 ---
 
@@ -1218,8 +1911,15 @@ B) Recycling — reusing the solvent in a different process
 C) Source reduction — eliminating hazardous waste generation at the point of origin  
 D) Disposal — the aqueous waste still requires disposal  
 
-**Answer: C**
+<details>
+<summary>▶ Show Answer</summary>
+
+**Correct Answer: C**
+
+**Explanation:**
 Switching from a solvent-based process to an aqueous process that generates no hazardous waste is the highest-tier action in the P2 hierarchy: source reduction. By eliminating the use of the hazardous solvent entirely, no hazardous waste is generated. This is the preferred and most valued action. Treatment would mean cleaning up the existing hazardous waste after generation — that is a lower-tier option.
+
+</details>
 
 ---
 
