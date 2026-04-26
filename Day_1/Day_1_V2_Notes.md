@@ -76,7 +76,7 @@ OSHA's definition focuses on physical hazards (fire, explosion) and health hazar
 
 > 💡 **Real World Scenario — The Right to Know**
 >
-> You're a new employee at Clean Harbors. Your supervisor hands you a drum of waste solvent. Under OSHA's HazCom rule, you have a **legal right** to know exactly what's in that drum before you touch it. The SDS must be available, you must be trained, and you can **legally refuse to work** with a chemical if you haven't been trained.
+> You're a new employee. Your supervisor hands you a drum of waste solvent. Under OSHA's HazCom rule, you have a **legal right** to know exactly what's in that drum before you touch it. The SDS must be available, you must be trained, and you can **legally refuse to work** with a chemical if you haven't been trained.
 
 **Key OSHA Regulations:**
 
@@ -100,7 +100,7 @@ DOT's regulations live in **49 CFR**. The sub-agency writing most hazmat transpo
 
 > 💡 **Real World Scenario — The Same Chemical, Different Rules**
 >
-> A drum of acetone: while on the shelf → OSHA rules. When discarded → EPA/RCRA rules. When loaded on a truck → DOT rules (placard, manifest, packaging). When it arrives at Clean Harbors → OSHA + EPA RCRA rules again. **The same drum, three different regulatory frameworks.**
+> A drum of acetone: while on the shelf → OSHA rules. When discarded → EPA/RCRA rules. When loaded on a truck → DOT rules (placard, manifest, packaging). When it arrives at Environmental company or any sites → OSHA + EPA RCRA rules again. **The same drum, three different regulatory frameworks.**
 
 **DOT sub-categories:**
 
