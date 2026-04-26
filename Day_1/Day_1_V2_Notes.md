@@ -13,7 +13,7 @@
 - How to read a Safety Data Sheet like a pro
 - The four ways a waste becomes legally "hazardous" under RCRA
 - Who regulates what, and why it matters when things go wrong
-- How all of this directly applies to your daily work at Clean Harbors
+- How all of this directly applies to your daily work at Hazardous and Safety Sites.
 
 ---
 
