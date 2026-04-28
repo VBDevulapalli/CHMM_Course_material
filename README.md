@@ -10,7 +10,7 @@
 | Day | Domain / Topic | Status | 📖 Complete Notes | ⚡ Quick Reference | ❓ Practice Questions |
 |-----|---------------|--------|------------------|-------------------|----------------------|
 | **Day 1** | Hazmat Regulations & Transport | ✅ Available | [Complete Notes](Day_1/Day_1_Complete_Notes.md) | [Quick Reference](Day_1/Day_1_Quick_Reference.md) | [Practice Questions](Day_1/PracticeQuestions.md) |
-| **Day 2** | EPA & Environmental Laws | ⏳ Coming Soon | — | — | — |
+| **Day 2** | EPA & Environmental Laws | ✅ Available | — | — | — |
 | **Day 3** | OSHA & Worker Safety | ⏳ Coming Soon | — | — | — |
 | **Day 4** | RCRA & Waste Management | ⏳ Coming Soon | — | — | — |
 | **Day 5** | Emergency Response (CERCLA/NCP) | ⏳ Coming Soon | — | — | — |
