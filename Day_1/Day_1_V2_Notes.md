@@ -1067,7 +1067,7 @@ Regulated under:
 ### The Basic Process
 
 ```
-1. Waste Characterization & Acceptance (YOU — receiving chemist)
+1. Waste Characterization & Acceptance 
 2. Waste Bulking & Blending
 3. Feed Preparation
 4. Thermal Oxidation (1,200°C to 1,600°C typical)
