@@ -29,10 +29,10 @@ The OSH Act became effective **April 28, 1971.** This date is now recognized as 
 
 **Q2.** Which of the following entities is NOT covered under OSHA jurisdiction?
 
-A) A privately owned chemical manufacturing plant
-B) A self-employed plumber with no employees
-C) A federal government agency workplace
-D) Employees of a private hospital
+- A) A privately owned chemical manufacturing plant
+- B) A self-employed plumber with no employees
+- C) A federal government agency workplace
+- D) Employees of a private hospital
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -47,10 +47,10 @@ OSHA does not cover self-employed individuals with no employees — there is no 
 
 **Q3.** A state has an OSHA-approved State Plan. Which statement correctly describes the relationship between the State Plan and federal OSHA?
 
-A) State Plans must be identical to federal OSHA standards
-B) State Plans must be "at least as effective" as federal OSHA but may be more stringent
-C) State Plans replace federal OSHA entirely and federal standards no longer apply
-D) State Plans only cover public sector employees; private sector follows federal OSHA
+- A) State Plans must be identical to federal OSHA standards
+- B) State Plans must be "at least as effective" as federal OSHA but may be more stringent
+- C) State Plans replace federal OSHA entirely and federal standards no longer apply
+- D) State Plans only cover public sector employees; private sector follows federal OSHA
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -65,10 +65,10 @@ OSHA-approved State Plans must be "at least as effective" as the federal OSHA pr
 
 **Q4.** The General Duty Clause (Section 5(a)(1)) can be cited by OSHA when:
 
-A) Any workplace injury occurs, regardless of whether a standard was violated
-B) A recognized hazard causing or likely to cause death or serious harm exists, no specific standard covers it, and feasible abatement is possible
-C) An employer has more than 100 employees in a high-hazard industry
-D) An employee files a formal complaint about workplace conditions
+- A) Any workplace injury occurs, regardless of whether a standard was violated
+- B) A recognized hazard causing or likely to cause death or serious harm exists, no specific standard covers it, and feasible abatement is possible
+- C) An employer has more than 100 employees in a high-hazard industry
+- D) An employee files a formal complaint about workplace conditions
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -83,10 +83,10 @@ The General Duty Clause requires four elements: (1) a hazard exists, (2) the haz
 
 **Q5.** NIOSH differs from OSHA in that NIOSH:
 
-A) Enforces workplace safety regulations and issues citations
-B) Conducts research and makes recommendations but does not have enforcement authority
-C) Is the appeals body for contested OSHA citations
-D) Regulates only chemical manufacturers, not general industry
+- A) Enforces workplace safety regulations and issues citations
+- B) Conducts research and makes recommendations but does not have enforcement authority
+- C) Is the appeals body for contested OSHA citations
+- D) Regulates only chemical manufacturers, not general industry
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -101,10 +101,10 @@ NIOSH (National Institute for Occupational Safety and Health) is a research agen
 
 **Q6.** A new chemical is introduced into a manufacturing process. No specific OSHA standard exists for it, but scientific literature documents significant respiratory hazard at occupational exposure levels. Workers begin developing respiratory symptoms. Which OSHA provision can be used to cite the employer?
 
-A) The employer cannot be cited because there is no specific standard
-B) Section 5(a)(1) — the General Duty Clause
-C) 29 CFR 1910.1000 — the Air Contaminants standard
-D) 29 CFR 1910.134 — Respiratory Protection (automatic application)
+- A) The employer cannot be cited because there is no specific standard
+- B) Section 5(a)(1) — the General Duty Clause
+- C) 29 CFR 1910.1000 — the Air Contaminants standard
+- D) 29 CFR 1910.134 — Respiratory Protection (automatic application)
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -119,10 +119,10 @@ The General Duty Clause applies when there is a recognized hazard (recognized by
 
 **Q7.** Section 11(c) of the OSH Act protects employees who:
 
-A) Refuse to work due to any safety concern, however minor
-B) File OSHA complaints, participate in OSHA inspections, or exercise other rights under the OSH Act
-C) Are injured on the job and file workers' compensation claims
-D) Belong to a union and report safety concerns to their union representative
+- A) Refuse to work due to any safety concern, however minor
+- B) File OSHA complaints, participate in OSHA inspections, or exercise other rights under the OSH Act
+- C) Are injured on the job and file workers' compensation claims
+- D) Belong to a union and report safety concerns to their union representative
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -137,10 +137,10 @@ Section 11(c) is OSHA's anti-retaliation (whistleblower) provision. Employers ca
 
 **Q8.** The Occupational Safety and Health Review Commission (OSHRC) serves which function?
 
-A) Issues citations and penalties for OSHA violations
-B) Conducts research on occupational health risks
-C) Serves as the independent adjudicatory body that hears appeals of contested OSHA citations
-D) Writes new OSHA standards and regulations
+- A) Issues citations and penalties for OSHA violations
+- B) Conducts research on occupational health risks
+- C) Serves as the independent adjudicatory body that hears appeals of contested OSHA citations
+- D) Writes new OSHA standards and regulations
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -155,10 +155,10 @@ OSHRC is the independent quasi-judicial body that hears and rules on cases when 
 
 **Q9.** An employer receives an OSHA citation on March 15. What is the deadline to contest the citation?
 
-A) 30 calendar days from March 15
-B) 15 working days from receipt of the citation
-C) 60 days from March 15
-D) 15 calendar days from March 15
+- A) 30 calendar days from March 15
+- B) 15 working days from receipt of the citation
+- C) 60 days from March 15
+- D) 15 calendar days from March 15
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -173,10 +173,10 @@ Employers have **15 WORKING DAYS** (not calendar days) from receipt of the citat
 
 **Q10.** Which citation type carries the highest possible OSHA penalty?
 
-A) Serious violation
-B) Other-than-serious violation
-C) Willful violation
-D) Repeated violation
+- A) Serious violation
+- B) Other-than-serious violation
+- C) Willful violation
+- D) Repeated violation
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -191,10 +191,10 @@ Willful violations carry the highest penalties — up to $165,514 per violation 
 
 **Q11.** An employer's failure to correct a previously cited violation beyond the abatement date is classified as which type of OSHA violation?
 
-A) Willful
-B) Repeated
-C) Failure to Abate
-D) Other-than-serious
+- A) Willful
+- B) Repeated
+- C) Failure to Abate
+- D) Other-than-serious
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -209,10 +209,10 @@ Failure to Abate means the employer did not correct a previously cited violation
 
 **Q12.** OSHA inspections are prioritized. Which type of inspection receives the HIGHEST priority?
 
-A) Planned/programmed inspection
-B) Complaint investigation
-C) Imminent danger situation
-D) Follow-up to a previous citation
+- A) Planned/programmed inspection
+- B) Complaint investigation
+- C) Imminent danger situation
+- D) Follow-up to a previous citation
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -227,10 +227,10 @@ OSHA's inspection priority order: (1) Imminent danger — highest priority, (2) 
 
 **Q13.** Under what specific conditions can a worker legally refuse to perform work under the OSH Act?
 
-A) Any time the worker feels uncomfortable with the task assigned
-B) When the worker believes the condition poses imminent danger of death or serious injury, a reasonable person would agree, the employer was notified and didn't fix it, and there wasn't time for OSHA to respond
-C) When the worker's union representative has advised refusal
-D) Only after a formal OSHA complaint has been filed
+- A) Any time the worker feels uncomfortable with the task assigned
+- B) When the worker believes the condition poses imminent danger of death or serious injury, a reasonable person would agree, the employer was notified and didn't fix it, and there wasn't time for OSHA to respond
+- C) When the worker's union representative has advised refusal
+- D) Only after a formal OSHA complaint has been filed
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -245,10 +245,10 @@ The right to refuse unsafe work under OSHA has four specific conditions: (1) gen
 
 **Q14.** The OSHA 300A Annual Summary must be posted in the workplace from:
 
-A) January 1 to March 31
-B) February 1 to April 30
-C) March 1 to June 30
-D) November 1 to December 31
+- A) January 1 to March 31
+- B) February 1 to April 30
+- C) March 1 to June 30
+- D) November 1 to December 31
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -263,10 +263,10 @@ The OSHA 300A Annual Summary must be posted from **February 1 to April 30** each
 
 **Q15.** A worker is cut on the job. The company nurse cleans the wound, applies a bandage, and gives the worker two Advil tablets (over-the-counter). The worker returns to full duty the same day. Is this incident OSHA recordable?
 
-A) Yes — any injury requiring medical attention is recordable
-B) No — treatment consisted only of first aid (cleaning, bandaging, OTC medication at nonprescription dose) and the worker returned to full duty
-C) Yes — any cut that requires cleaning is recordable
-D) No — only injuries causing lost time are recordable
+- A) Yes — any injury requiring medical attention is recordable
+- B) No — treatment consisted only of first aid (cleaning, bandaging, OTC medication at nonprescription dose) and the worker returned to full duty
+- C) Yes — any cut that requires cleaning is recordable
+- D) No — only injuries causing lost time are recordable
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -285,10 +285,10 @@ This incident is **not recordable**. Cleaning a wound, applying a bandage, and a
 
 **Q16.** HAZWOPER is codified in which OSHA regulation?
 
-A) 29 CFR 1910.119
-B) 29 CFR 1910.134
-C) 29 CFR 1910.120
-D) 29 CFR 1910.146
+- A) 29 CFR 1910.119
+- B) 29 CFR 1910.134
+- C) 29 CFR 1910.120
+- D) 29 CFR 1910.146
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -303,10 +303,10 @@ HAZWOPER (Hazardous Waste Operations and Emergency Response) is **29 CFR 1910.12
 
 **Q17.** A worker at a Superfund cleanup site notices a drum leaking an unknown liquid and immediately runs to a safe distance and calls 911. He does not attempt to identify the substance or stop the leak. This behavior is consistent with which HAZWOPER training level?
 
-A) First Responder Operations (FRO)
-B) Hazardous Materials Technician (HMT)
-C) First Responder Awareness (FRA)
-D) On-Scene Incident Commander (IC)
+- A) First Responder Operations (FRO)
+- B) Hazardous Materials Technician (HMT)
+- C) First Responder Awareness (FRA)
+- D) On-Scene Incident Commander (IC)
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -321,10 +321,10 @@ First Responder Awareness (FRA) trains workers to recognize and report hazardous
 
 **Q18.** What is the minimum HAZWOPER training requirement for a First Responder Operations (FRO) level worker?
 
-A) Competency-based — no specific hour requirement
-B) 8 hours minimum
-C) 24 hours minimum
-D) 40 hours minimum
+- A) Competency-based — no specific hour requirement
+- B) 8 hours minimum
+- C) 24 hours minimum
+- D) 40 hours minimum
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -339,10 +339,10 @@ FRO training requires a minimum of **8 hours**. FRA is competency-based with no 
 
 **Q19.** Workers assigned to a hazardous waste site cleanup who have not yet completed full HAZWOPER training may still participate in site activities if they are:
 
-A) Supervised by a trained coworker at all times
-B) Under the direct supervision of a trained, experienced supervisor (on-the-job training while receiving required training)
-C) Wearing Level A PPE at all times
-D) Restricted to the cold zone only for the duration of their employment
+- A) Supervised by a trained coworker at all times
+- B) Under the direct supervision of a trained, experienced supervisor (on-the-job training while receiving required training)
+- C) Wearing Level A PPE at all times
+- D) Restricted to the cold zone only for the duration of their employment
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -357,10 +357,10 @@ HAZWOPER 1910.120(e)(3) allows workers to participate in site activities before 
 
 **Q20.** How often must HAZWOPER-trained workers at the FRO level and above receive refresher training?
 
-A) Every 2 years
-B) Every 5 years
-C) Annually (every 12 months) — 8 hours minimum
-D) Only when new chemicals are introduced to the site
+- A) Every 2 years
+- B) Every 5 years
+- C) Annually (every 12 months) — 8 hours minimum
+- D) Only when new chemicals are introduced to the site
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -375,10 +375,10 @@ HAZWOPER requires **annual 8-hour refresher training** for all workers trained a
 
 **Q21.** Under HAZWOPER, when must a Site Safety and Health Plan (SSHP) be developed?
 
-A) Only when chemical concentrations exceed the PEL
-B) Before beginning any hazardous waste cleanup operations at an uncontrolled site
-C) Within 30 days after site operations begin
-D) Only when workers will be using Level A PPE
+- A) Only when chemical concentrations exceed the PEL
+- B) Before beginning any hazardous waste cleanup operations at an uncontrolled site
+- C) Within 30 days after site operations begin
+- D) Only when workers will be using Level A PPE
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -393,10 +393,10 @@ The SSHP must be developed **before operations begin** at an uncontrolled hazard
 
 **Q22.** Which of the following is NOT a required element of a HAZWOPER Site Safety and Health Plan?
 
-A) Emergency response procedures
-B) PPE requirements by zone and task
-C) List of chemical suppliers for the site
-D) Air monitoring plan
+- A) Emergency response procedures
+- B) PPE requirements by zone and task
+- C) List of chemical suppliers for the site
+- D) Air monitoring plan
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -411,10 +411,10 @@ A list of chemical suppliers is not a required SSHP element. Required elements i
 
 **Q23.** A hazardous materials technician approaches a leaking chemical storage tank with the intent to close a valve and stop the leak. This type of response is best described as:
 
-A) Defensive response
-B) Offensive response
-C) Awareness-level response
-D) Support-level response
+- A) Defensive response
+- B) Offensive response
+- C) Awareness-level response
+- D) Support-level response
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -429,10 +429,10 @@ Going to the source of a release to stop it (closing a valve, plugging a leak, s
 
 **Q24.** Under HAZWOPER medical surveillance requirements, who must receive medical examinations?
 
-A) Only workers who have experienced a chemical exposure incident
-B) All site workers regardless of exposure potential
-C) Workers exposed at or above the action level for 30+ days/year, workers wearing respirators 30+ days/year, emergency responders to significant releases, and HAZMAT team members
-D) Only Site Safety Officers and Incident Commanders
+- A) Only workers who have experienced a chemical exposure incident
+- B) All site workers regardless of exposure potential
+- C) Workers exposed at or above the action level for 30+ days/year, workers wearing respirators 30+ days/year, emergency responders to significant releases, and HAZMAT team members
+- D) Only Site Safety Officers and Incident Commanders
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -447,10 +447,10 @@ HAZWOPER medical surveillance applies to: workers exposed at or above the action
 
 **Q25.** A physician conducting HAZWOPER medical surveillance determines that a worker has a cardiac condition that limits their ability to wear a SCBA. Which information can the physician share with the employer?
 
-A) The specific cardiac diagnosis and treatment plan
-B) Whether the worker is fit, not fit, or fit with restrictions — but NOT the specific diagnosis
-C) The complete medical record including all conditions found during examination
-D) Only that the worker is fit or not fit, with no additional information
+- A) The specific cardiac diagnosis and treatment plan
+- B) Whether the worker is fit, not fit, or fit with restrictions — but NOT the specific diagnosis
+- C) The complete medical record including all conditions found during examination
+- D) Only that the worker is fit or not fit, with no additional information
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -465,10 +465,10 @@ HAZWOPER medical surveillance maintains medical confidentiality. The physician p
 
 **Q26.** The Hot Zone in a HAZWOPER operation is also called:
 
-A) The Support Zone
-B) The Contamination Reduction Zone
-C) The Exclusion Zone
-D) The Command Zone
+- A) The Support Zone
+- B) The Contamination Reduction Zone
+- C) The Exclusion Zone
+- D) The Command Zone
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -485,10 +485,10 @@ Cold Zone = Support Zone — command post, staging, clean area.
 
 **Q27.** Personnel moving from the hot zone to the cold zone must first pass through:
 
-A) The cold zone command post for clearance
-B) The decontamination station in the warm zone
-C) A medical monitoring station in the cold zone
-D) The exclusion zone perimeter check point only
+- A) The cold zone command post for clearance
+- B) The decontamination station in the warm zone
+- C) A medical monitoring station in the cold zone
+- D) The exclusion zone perimeter check point only
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -503,10 +503,10 @@ Workers ALWAYS move from hot → warm → cold, with decontamination occurring i
 
 **Q28.** An emergency responder is working at a scene involving an unknown chemical spill. The concentration is unknown and skin absorption is suspected. Which PPE level is initially MOST appropriate until the hazard is characterized?
 
-A) Level D — work uniform
-B) Level C — APR with splash protection
-C) Level B — non-encapsulating suit with SCBA
-D) Level A — fully encapsulating suit with SCBA inside
+- A) Level D — work uniform
+- B) Level C — APR with splash protection
+- C) Level B — non-encapsulating suit with SCBA
+- D) Level A — fully encapsulating suit with SCBA inside
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -521,10 +521,10 @@ When the chemical is unknown AND skin absorption is suspected as a potential haz
 
 **Q29.** The primary difference between Level A and Level B PPE is:
 
-A) Level A uses a SCBA; Level B uses an APR
-B) Level A uses an encapsulating vapor-tight suit; Level B uses a non-encapsulating suit — both use SCBA
-C) Level A provides more respiratory protection; Level B provides more skin protection
-D) Level B is used outdoors; Level A is for indoor use only
+- A) Level A uses a SCBA; Level B uses an APR
+- B) Level A uses an encapsulating vapor-tight suit; Level B uses a non-encapsulating suit — both use SCBA
+- C) Level A provides more respiratory protection; Level B provides more skin protection
+- D) Level B is used outdoors; Level A is for indoor use only
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -539,10 +539,10 @@ Both Level A and Level B require positive-pressure SCBA for respiratory protecti
 
 **Q30.** Which condition MUST be met to use Level C PPE (air-purifying respirator)?
 
-A) The contaminant concentration must be at or above the IDLH
-B) Oxygen must be within the normal range (19.5-23.5%), the contaminant must be identified and filterable, and the concentration must be known and below IDLH
-C) The skin hazard must be classified as severe
-D) A HAZMAT team must be present at the scene
+- A) The contaminant concentration must be at or above the IDLH
+- B) Oxygen must be within the normal range (19.5-23.5%), the contaminant must be identified and filterable, and the concentration must be known and below IDLH
+- C) The skin hazard must be classified as severe
+- D) A HAZMAT team must be present at the scene
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -557,10 +557,10 @@ Level C (APR) requires ALL of these conditions simultaneously: (1) oxygen is wit
 
 **Q31.** What is the correct action if air monitoring at a site shows that benzene concentrations have risen above the IDLH during a work operation?
 
-A) Continue work but switch from half-face to full-face APR
-B) Immediately evacuate the hot zone — IDLH conditions require SCBA and all personnel without SCBA must exit immediately
-C) Notify the site safety officer and continue until their inspection is complete
-D) Increase the frequency of air monitoring and note the readings in the log
+- A) Continue work but switch from half-face to full-face APR
+- B) Immediately evacuate the hot zone — IDLH conditions require SCBA and all personnel without SCBA must exit immediately
+- C) Notify the site safety officer and continue until their inspection is complete
+- D) Increase the frequency of air monitoring and note the readings in the log
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -575,10 +575,10 @@ IDLH conditions require positive-pressure SCBA — period. Personnel wearing APR
 
 **Q32.** HAZWOPER's emergency response provisions apply to which types of incidents?
 
-A) Only incidents at designated RCRA hazardous waste facilities
-B) Emergency response to releases of hazardous substances regardless of where the release occurs — including industrial facilities, transportation accidents, and other locations
-C) Only incidents at Superfund NPL sites
-D) Emergency response to oil spills under OPA
+- A) Only incidents at designated RCRA hazardous waste facilities
+- B) Emergency response to releases of hazardous substances regardless of where the release occurs — including industrial facilities, transportation accidents, and other locations
+- C) Only incidents at Superfund NPL sites
+- D) Emergency response to oil spills under OPA
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -593,10 +593,10 @@ HAZWOPER's emergency response section (1910.120(q)) applies to ANY emergency res
 
 **Q33.** What role does the Site Safety Officer (SSO) play under HAZWOPER?
 
-A) The SSO serves as the Incident Commander during all operations
-B) The SSO is responsible for developing and implementing the Site Safety and Health Plan, conducting pre-entry briefings, monitoring safety conditions, and stopping work when unsafe conditions are identified
-C) The SSO is responsible only for PPE selection and maintenance
-D) The SSO is a government inspector from OSHA assigned to large Superfund sites
+- A) The SSO serves as the Incident Commander during all operations
+- B) The SSO is responsible for developing and implementing the Site Safety and Health Plan, conducting pre-entry briefings, monitoring safety conditions, and stopping work when unsafe conditions are identified
+- C) The SSO is responsible only for PPE selection and maintenance
+- D) The SSO is a government inspector from OSHA assigned to large Superfund sites
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -611,10 +611,10 @@ The Site Safety Officer (SSO) is a company-designated person responsible for ove
 
 **Q34.** Under HAZWOPER, what is the "buddy system" and why is it required?
 
-A) Two workers share one SCBA to conserve air
-B) Workers in the hot zone must work in pairs so that if one worker is incapacitated, the other can provide immediate assistance or initiate rescue
-C) The buddy system requires one worker to monitor atmospheric conditions while the other works
-D) Two workers alternate between the hot zone on 15-minute shifts
+- A) Two workers share one SCBA to conserve air
+- B) Workers in the hot zone must work in pairs so that if one worker is incapacitated, the other can provide immediate assistance or initiate rescue
+- C) The buddy system requires one worker to monitor atmospheric conditions while the other works
+- D) Two workers alternate between the hot zone on 15-minute shifts
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -629,10 +629,10 @@ HAZWOPER requires a buddy system — no worker enters the hot zone alone. If a w
 
 **Q35.** The HAZWOPER standard requires that an emergency response plan include which element specifically addressing personnel who will be responsible for rescue?
 
-A) A list of all chemical substances that might be present
-B) Identification of the local hospital and its address
-C) Identification of emergency response personnel and their training, and how rescue will be performed
-D) Contact information for EPA and OSHA regional offices
+- A) A list of all chemical substances that might be present
+- B) Identification of the local hospital and its address
+- C) Identification of emergency response personnel and their training, and how rescue will be performed
+- D) Contact information for EPA and OSHA regional offices
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -647,10 +647,10 @@ The emergency response plan under HAZWOPER must include information on who will 
 
 **Q36.** HAZWOPER requires backup personnel to be stationed at a hazardous waste site operation. What is their primary purpose?
 
-A) To monitor air quality for the workers in the hot zone
-B) Trained personnel with appropriate PPE who can immediately respond if hot zone workers need assistance or rescue
-C) Administrative staff who document safety observations
-D) Medical personnel who treat injuries after workers exit the hot zone
+- A) To monitor air quality for the workers in the hot zone
+- B) Trained personnel with appropriate PPE who can immediately respond if hot zone workers need assistance or rescue
+- C) Administrative staff who document safety observations
+- D) Medical personnel who treat injuries after workers exit the hot zone
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -665,10 +665,10 @@ Backup personnel (sometimes called "standby rescuers") must be stationed at the 
 
 **Q37.** Under HAZWOPER, what is the purpose of the pre-entry safety briefing?
 
-A) A legal formality required before any hazardous waste work begins
-B) A mandatory communication that ensures all workers understand the specific hazards, PPE requirements, communication signals, action levels, and emergency procedures for that day's tasks before entering the hot zone
-C) A briefing for management and clients about project progress
-D) Training required only for workers new to the site
+- A) A legal formality required before any hazardous waste work begins
+- B) A mandatory communication that ensures all workers understand the specific hazards, PPE requirements, communication signals, action levels, and emergency procedures for that day's tasks before entering the hot zone
+- C) A briefing for management and clients about project progress
+- D) Training required only for workers new to the site
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -683,10 +683,10 @@ The pre-entry (tailgate) safety briefing is a required operational communication
 
 **Q38.** A hazardous waste site worker's HAZWOPER initial training was 40 hours (for uncontrolled hazardous waste site workers). She also received 3 days of supervised field experience. What annual training does she need to maintain her HAZWOPER qualification?
 
-A) 40 hours of retraining annually
-B) 8 hours of annual refresher training
-C) 24 hours of annual refresher training
-D) No refresher required — initial 40-hour training is permanent
+- A) 40 hours of retraining annually
+- B) 8 hours of annual refresher training
+- C) 24 hours of annual refresher training
+- D) No refresher required — initial 40-hour training is permanent
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -701,10 +701,10 @@ Regardless of the initial training level (24-hour or 40-hour), HAZWOPER requires
 
 **Q39.** Which of the following operations at a Treatment, Storage, and Disposal Facility (TSDF) is covered under HAZWOPER?
 
-A) Office administrative work at the TSDF
-B) Delivery drivers who drop off hazardous waste without handling it
-C) Workers who handle hazardous waste during treatment, storage, or disposal operations
-D) Security personnel who do not enter waste handling areas
+- A) Office administrative work at the TSDF
+- B) Delivery drivers who drop off hazardous waste without handling it
+- C) Workers who handle hazardous waste during treatment, storage, or disposal operations
+- D) Security personnel who do not enter waste handling areas
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -719,10 +719,10 @@ HAZWOPER Section 1910.120(p) covers workers at TSDFs who are "exposed to health 
 
 **Q40.** Under HAZWOPER, decontamination procedures must be established and communicated to workers before any site entry. Which of the following is NOT a purpose of decontamination?
 
-A) Remove chemical contamination from workers and equipment before they leave the hot zone
-B) Prevent contamination from being spread from the hot zone to clean areas
-C) Eliminate the need for PPE in the warm zone after decon
-D) Protect emergency medical personnel who might have to treat contaminated workers
+- A) Remove chemical contamination from workers and equipment before they leave the hot zone
+- B) Prevent contamination from being spread from the hot zone to clean areas
+- C) Eliminate the need for PPE in the warm zone after decon
+- D) Protect emergency medical personnel who might have to treat contaminated workers
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -741,10 +741,10 @@ Decontamination does NOT eliminate the need for PPE in the warm zone — workers
 
 **Q41.** Which three characteristics define a confined space under OSHA 29 CFR 1910.146?
 
-A) Enclosed, requires a key to access, and is underground
-B) Large enough to enter, has limited entry/exit, and is not designed for continuous occupancy
-C) Hazardous atmosphere, limited lighting, and restricted communication
-D) Below-grade, requires a ladder to access, and has a single entrance
+- A) Enclosed, requires a key to access, and is underground
+- B) Large enough to enter, has limited entry/exit, and is not designed for continuous occupancy
+- C) Hazardous atmosphere, limited lighting, and restricted communication
+- D) Below-grade, requires a ladder to access, and has a single entrance
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -759,10 +759,10 @@ A confined space has ALL three: (1) large enough for an employee to bodily enter
 
 **Q42.** What makes a confined space "permit-required" (PRCS)?
 
-A) It is underground and requires a ladder to enter
-B) It is in a HAZWOPER-regulated facility
-C) It contains or has the potential to contain a serious atmospheric hazard, engulfment hazard, internal configuration hazard, or any other recognized serious safety or health hazard
-D) It requires more than one worker to enter safely
+- A) It is underground and requires a ladder to enter
+- B) It is in a HAZWOPER-regulated facility
+- C) It contains or has the potential to contain a serious atmospheric hazard, engulfment hazard, internal configuration hazard, or any other recognized serious safety or health hazard
+- D) It requires more than one worker to enter safely
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -777,10 +777,10 @@ A confined space becomes permit-required when it has any of: (A) serious atmosph
 
 **Q43.** What is the OSHA-defined oxygen-deficient atmosphere?
 
-A) Below 18% oxygen
-B) Below 19.5% oxygen
-C) Below 20.9% oxygen (normal atmospheric level)
-D) Below 16% oxygen
+- A) Below 18% oxygen
+- B) Below 19.5% oxygen
+- C) Below 20.9% oxygen (normal atmospheric level)
+- D) Below 16% oxygen
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -795,10 +795,10 @@ OSHA defines oxygen-deficient as below **19.5%** oxygen. Normal atmospheric oxyg
 
 **Q44.** What is the OSHA-defined oxygen-enriched atmosphere?
 
-A) Above 20.9%
-B) Above 22%
-C) Above 23.5%
-D) Above 25%
+- A) Above 20.9%
+- B) Above 22%
+- C) Above 23.5%
+- D) Above 25%
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -813,10 +813,10 @@ Oxygen-enriched is defined as **above 23.5%**. In an oxygen-enriched atmosphere,
 
 **Q45.** Why must atmospheric testing be performed in the order of: oxygen first, then LEL, then toxics?
 
-A) OSHA regulations specify this arbitrary order for legal compliance
-B) Oxygen is tested first because oxygen-deficient atmospheres can cause inaccurate LEL/combustible gas readings on many instruments, and knowing O₂ first ensures subsequent readings are reliable
-C) LEL meters and O₂ meters cannot be used simultaneously
-D) Toxic gas testing is always performed by a different instrument than O₂ and LEL
+- A) OSHA regulations specify this arbitrary order for legal compliance
+- B) Oxygen is tested first because oxygen-deficient atmospheres can cause inaccurate LEL/combustible gas readings on many instruments, and knowing O₂ first ensures subsequent readings are reliable
+- C) LEL meters and O₂ meters cannot be used simultaneously
+- D) Toxic gas testing is always performed by a different instrument than O₂ and LEL
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -831,10 +831,10 @@ Many catalytic bead combustible gas sensors require oxygen to generate an accura
 
 **Q46.** An attendant stationed outside a confined space sees the entrant collapse and become unresponsive. What is the correct action?
 
-A) Immediately enter the space to retrieve the entrant
-B) Alert other nearby workers to enter and help
-C) Activate the retrieval system to attempt non-entry rescue, call for emergency rescue services (trained rescuers with SCBA), and maintain communication
-D) Wait 5 minutes to see if the entrant recovers before taking action
+- A) Immediately enter the space to retrieve the entrant
+- B) Alert other nearby workers to enter and help
+- C) Activate the retrieval system to attempt non-entry rescue, call for emergency rescue services (trained rescuers with SCBA), and maintain communication
+- D) Wait 5 minutes to see if the entrant recovers before taking action
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -849,10 +849,10 @@ The attendant must: (1) attempt to activate the retrieval system for non-entry r
 
 **Q47.** Which element is required on a confined space entry permit?
 
-A) The chemical composition of the atmosphere at a nearby facility
-B) The name and signature of the entry supervisor authorizing the entry
-C) A list of all confined spaces within 1 mile of the entry location
-D) Contact information for the nearest OSHA regional office
+- A) The chemical composition of the atmosphere at a nearby facility
+- B) The name and signature of the entry supervisor authorizing the entry
+- C) A list of all confined spaces within 1 mile of the entry location
+- D) Contact information for the nearest OSHA regional office
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -867,10 +867,10 @@ Entry permits must include: space identification, entry purpose, date and author
 
 **Q48.** A confined space entry permit has been issued for an 8-hour shift. Four hours into the operation, air monitoring detects elevated toxic gas concentrations that exceed acceptable entry conditions. What must happen to the permit?
 
-A) The permit may continue — the action level has not yet reached IDLH
-B) Workers should don additional PPE and continue working
-C) The entry supervisor must suspend or cancel the permit immediately; all entrants must exit, and the space must be re-evaluated before entry can resume
-D) The attendant may upgrade the permit conditions on-site without supervisor involvement
+- A) The permit may continue — the action level has not yet reached IDLH
+- B) Workers should don additional PPE and continue working
+- C) The entry supervisor must suspend or cancel the permit immediately; all entrants must exit, and the space must be re-evaluated before entry can resume
+- D) The attendant may upgrade the permit conditions on-site without supervisor involvement
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -885,10 +885,10 @@ When conditions exceed the acceptable entry conditions specified on the permit, 
 
 **Q49.** A retrieval system is required in permit-required confined spaces when:
 
-A) The space is over 10 feet deep
-B) Workers are wearing any respiratory protection
-C) The employee enters a permit space where rescue may be required and retrieval would not increase the overall risk (i.e., non-entry rescue is feasible)
-D) The entry has not been pre-authorized by OSHA
+- A) The space is over 10 feet deep
+- B) Workers are wearing any respiratory protection
+- C) The employee enters a permit space where rescue may be required and retrieval would not increase the overall risk (i.e., non-entry rescue is feasible)
+- D) The entry has not been pre-authorized by OSHA
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -903,10 +903,10 @@ Retrieval systems (wristlets connected to a retrieval line and mechanical device
 
 **Q50.** What is the minimum required content of information that the confined space employer must provide to rescue services?
 
-A) The phone number of the corporate safety manager
-B) The hazards of the permit space, actions taken by the employer to eliminate or control hazards, and the location of the entry
-C) A complete copy of the employer's written safety program
-D) The name and certification level of the entry supervisor
+- A) The phone number of the corporate safety manager
+- B) The hazards of the permit space, actions taken by the employer to eliminate or control hazards, and the location of the entry
+- C) A complete copy of the employer's written safety program
+- D) The name and certification level of the entry supervisor
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -921,10 +921,10 @@ Before any rescue service is needed, the employer must inform them of: the hazar
 
 **Q51.** An employer has a permit-required confined space that has been isolated, all hazards controlled, and continuous forced air ventilation maintains conditions that would make it safe for entry without a permit. The employer wants to reclassify this PRCS as a non-permit confined space for this specific entry. What must the employer do?
 
-A) Reclassification is never allowed — once a PRCS, always a PRCS
-B) Document the testing and control measures that demonstrate the space meets non-permit conditions, certify this documentation, and make it available to entrants — then the space can be treated as non-permit for that entry
-C) Obtain OSHA approval before reclassification
-D) Post a non-permit sign and proceed without further documentation
+- A) Reclassification is never allowed — once a PRCS, always a PRCS
+- B) Document the testing and control measures that demonstrate the space meets non-permit conditions, certify this documentation, and make it available to entrants — then the space can be treated as non-permit for that entry
+- C) Obtain OSHA approval before reclassification
+- D) Post a non-permit sign and proceed without further documentation
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -939,10 +939,10 @@ OSHA 1910.146(c)(7) allows reclassification of a PRCS as a non-permit space if t
 
 **Q52.** An entrant in a confined space notices a sudden strong odor of hydrogen sulfide (H₂S) that wasn't present when they entered 20 minutes ago. What should the entrant do?
 
-A) Continue working and report the smell to the supervisor at the next scheduled check-in
-B) Exit the space immediately using self-rescue — H₂S causes rapid olfactory fatigue and can incapacitate a worker within seconds at high concentrations
-C) Ask the attendant to get air monitoring equipment to measure the concentration before deciding
-D) Don an N95 mask and continue working
+- A) Continue working and report the smell to the supervisor at the next scheduled check-in
+- B) Exit the space immediately using self-rescue — H₂S causes rapid olfactory fatigue and can incapacitate a worker within seconds at high concentrations
+- C) Ask the attendant to get air monitoring equipment to measure the concentration before deciding
+- D) Don an N95 mask and continue working
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -957,10 +957,10 @@ H₂S causes olfactory fatigue (loss of smell) within 2-15 minutes at moderate c
 
 **Q53.** Under OSHA 1910.146, who may authorize a confined space entry permit?
 
-A) The highest-ranking worker available at the site
-B) The attendant stationed at the entry point
-C) The entry supervisor — who verifies all preparations are complete before signing
-D) The company CEO or safety director only
+- A) The highest-ranking worker available at the site
+- B) The attendant stationed at the entry point
+- C) The entry supervisor — who verifies all preparations are complete before signing
+- D) The company CEO or safety director only
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -975,10 +975,10 @@ The **entry supervisor** is the designated person who authorizes (signs and date
 
 **Q54.** A confined space has grain stored to 4 feet depth. The grain can shift and bury a worker who enters. This represents which type of PRCS hazard?
 
-A) Atmospheric hazard
-B) Engulfment hazard
-C) Internal configuration hazard
-D) Electrical hazard
+- A) Atmospheric hazard
+- B) Engulfment hazard
+- C) Internal configuration hazard
+- D) Electrical hazard
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -993,10 +993,10 @@ Grain, sand, gravel, and liquid materials that can trap and bury an entrant repr
 
 **Q55.** After all entrants have exited a permitted confined space at the end of the work shift, what must be done with the entry permit?
 
-A) Filed with the OSHA regional office within 5 working days
-B) Retained by the employer for at least 1 year to facilitate review of the confined space program
-C) Destroyed immediately to protect worker privacy
-D) Submitted to the facility's insurance carrier
+- A) Filed with the OSHA regional office within 5 working days
+- B) Retained by the employer for at least 1 year to facilitate review of the confined space program
+- C) Destroyed immediately to protect worker privacy
+- D) Submitted to the facility's insurance carrier
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1015,10 +1015,10 @@ Cancelled or completed permits must be retained for **at least 1 year** after co
 
 **Q56.** Which PPE level uses a fully encapsulating vapor-tight suit with the SCBA worn inside the suit?
 
-A) Level B
-B) Level C
-C) Level D
-D) Level A
+- A) Level B
+- B) Level C
+- C) Level D
+- D) Level A
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1033,10 +1033,10 @@ Level A is the fully encapsulating, vapor-tight suit with SCBA worn inside the s
 
 **Q57.** Which control in the hierarchy of controls provides the MOST effective protection?
 
-A) PPE
-B) Administrative controls
-C) Elimination
-D) Engineering controls
+- A) PPE
+- B) Administrative controls
+- C) Elimination
+- D) Engineering controls
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1051,10 +1051,10 @@ Elimination — removing the hazard from the workplace entirely — is at the to
 
 **Q58.** A ventilation system installed over a solvent cleaning tank that captures and exhausts solvent vapors before they reach the worker's breathing zone is an example of which control type?
 
-A) Substitution
-B) Engineering control
-C) Administrative control
-D) PPE
+- A) Substitution
+- B) Engineering control
+- C) Administrative control
+- D) PPE
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1069,10 +1069,10 @@ Local exhaust ventilation (LEV) is an **engineering control** — it physically 
 
 **Q59.** The LOTO standard requires that each employee working on a machine apply their own personal lock. A supervisor wants to apply a single company lock on behalf of five workers doing maintenance on the same machine. Is this acceptable?
 
-A) Yes — one authorized lock is sufficient if a supervisor applies it
-B) No — each authorized employee must apply their own individual lock; no single person can apply a lock on behalf of others
-C) Yes — if all five workers sign a LOTO log
-D) Yes — if workers are at the same company and trained together
+- A) Yes — one authorized lock is sufficient if a supervisor applies it
+- B) No — each authorized employee must apply their own individual lock; no single person can apply a lock on behalf of others
+- C) Yes — if all five workers sign a LOTO log
+- D) Yes — if workers are at the same company and trained together
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1087,10 +1087,10 @@ Individual locks are non-negotiable. Each worker who is exposed to hazardous ene
 
 **Q60.** The LOTO standard allows tagout instead of lockout when:
 
-A) The employer prefers tags because they are faster to apply
-B) The energy isolating device is physically incapable of being locked out
-C) The worker has received tagout-specific training
-D) Only a single worker is doing the maintenance
+- A) The employer prefers tags because they are faster to apply
+- B) The energy isolating device is physically incapable of being locked out
+- C) The worker has received tagout-specific training
+- D) Only a single worker is doing the maintenance
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1105,10 +1105,10 @@ Tagout is only acceptable when the energy isolating device cannot physically be 
 
 **Q61.** After applying lockout devices and releasing stored energy, a maintenance worker must perform which critical final verification step?
 
-A) Call the supervisor for a sign-off
-B) Wait 5 minutes for any residual energy to dissipate
-C) Attempt to start the machine using its normal controls to verify that it cannot be energized (verify zero energy state)
-D) Place a yellow safety cone in front of the machine
+- A) Call the supervisor for a sign-off
+- B) Wait 5 minutes for any residual energy to dissipate
+- C) Attempt to start the machine using its normal controls to verify that it cannot be energized (verify zero energy state)
+- D) Place a yellow safety cone in front of the machine
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1123,10 +1123,10 @@ The "try to start" verification — attempting to operate the machine with its n
 
 **Q62.** Before being required to wear a respirator at work, an employee must first receive:
 
-A) A written test on respirator selection
-B) Medical evaluation by a physician or licensed health care professional
-C) At least 8 hours of respiratory protection training
-D) A visit to an OSHA-approved respirator fitting center
+- A) A written test on respirator selection
+- B) Medical evaluation by a physician or licensed health care professional
+- C) At least 8 hours of respiratory protection training
+- D) A visit to an OSHA-approved respirator fitting center
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1141,10 +1141,10 @@ D) A visit to an OSHA-approved respirator fitting center
 
 **Q63.** A half-face Air-Purifying Respirator (APR) has an Assigned Protection Factor (APF) of 10. If the PEL for a contaminant is 2 ppm, what is the Maximum Use Concentration (MUC) for a half-face APR?
 
-A) 2 ppm
-B) 10 ppm
-C) 20 ppm
-D) 100 ppm
+- A) 2 ppm
+- B) 10 ppm
+- C) 20 ppm
+- D) 100 ppm
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1159,10 +1159,10 @@ MUC = APF × PEL = 10 × 2 ppm = **20 ppm**. If the measured contaminant concent
 
 **Q64.** Quantitative fit testing (QNFT) is required (rather than qualitative fit testing) for which situation?
 
-A) All respirator fit testing in workplaces with more than 100 employees
-B) Full-face piece respirators and all respirators used in IDLH atmospheres in some circumstances
-C) Only for workers who have failed qualitative fit testing
-D) Qualitative fit testing is always acceptable; QNFT is only for research purposes
+- A) All respirator fit testing in workplaces with more than 100 employees
+- B) Full-face piece respirators and all respirators used in IDLH atmospheres in some circumstances
+- C) Only for workers who have failed qualitative fit testing
+- D) Qualitative fit testing is always acceptable; QNFT is only for research purposes
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1177,10 +1177,10 @@ OSHA's respiratory protection standard specifies that quantitative fit testing i
 
 **Q65.** Respirator cartridges for organic vapor protection are specifically designed to protect against:
 
-A) Oxygen-deficient atmospheres
-B) Radioactive particles
-C) Organic vapor chemicals (solvents, volatile organic compounds) — NOT gases like CO or hydrogen
-D) Any airborne contaminant present in the workplace
+- A) Oxygen-deficient atmospheres
+- B) Radioactive particles
+- C) Organic vapor chemicals (solvents, volatile organic compounds) — NOT gases like CO or hydrogen
+- D) Any airborne contaminant present in the workplace
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1195,10 +1195,10 @@ Organic vapor (OV) cartridges use activated carbon to adsorb volatile organic co
 
 **Q66.** Under the OSHA Respiratory Protection standard, how often must fit testing be performed?
 
-A) Once — initial fit test is permanent unless the respirator changes
-B) Every 5 years
-C) Annually (every 12 months) and whenever the employee changes respirator facepiece type or model
-D) Only before use in IDLH atmospheres
+- A) Once — initial fit test is permanent unless the respirator changes
+- B) Every 5 years
+- C) Annually (every 12 months) and whenever the employee changes respirator facepiece type or model
+- D) Only before use in IDLH atmospheres
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1213,10 +1213,10 @@ Fit testing must be performed **before initial use** and **annually thereafter**
 
 **Q67.** What type of hazard does Level D PPE protect against?
 
-A) Chemical vapor inhalation hazards
-B) Splash from corrosive liquids
-C) No specific chemical hazard — Level D is appropriate only when no respiratory or skin hazard is known to exist
-D) Particulate dust in general manufacturing
+- A) Chemical vapor inhalation hazards
+- B) Splash from corrosive liquids
+- C) No specific chemical hazard — Level D is appropriate only when no respiratory or skin hazard is known to exist
+- D) Particulate dust in general manufacturing
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1231,10 +1231,10 @@ Level D (standard work uniform) provides NO chemical vapor or splash protection 
 
 **Q68.** The Hierarchy of Controls lists administrative controls as the fourth tier (above only PPE). Which of the following is an example of an administrative control?
 
-A) Installing a ventilation hood over a chemical bath
-B) Replacing a solvent with a less toxic water-based cleaner
-C) Rotating workers between different tasks to limit any individual's exposure time to a hazardous chemical
-D) Issuing chemical-resistant gloves to workers handling acids
+- A) Installing a ventilation hood over a chemical bath
+- B) Replacing a solvent with a less toxic water-based cleaner
+- C) Rotating workers between different tasks to limit any individual's exposure time to a hazardous chemical
+- D) Issuing chemical-resistant gloves to workers handling acids
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1249,10 +1249,10 @@ Job rotation is an administrative control — it changes how work is done (who d
 
 **Q69.** OSHA 29 CFR 1910.147 (LOTO) applies to the control of hazardous energy during:
 
-A) Normal production operations only
-B) Servicing and maintenance of machines and equipment when unexpected energization or release of stored energy could cause injury
-C) Storage of hazardous energy in electrical batteries and capacitors
-D) Transportation of equipment between facilities
+- A) Normal production operations only
+- B) Servicing and maintenance of machines and equipment when unexpected energization or release of stored energy could cause injury
+- C) Storage of hazardous energy in electrical batteries and capacitors
+- D) Transportation of equipment between facilities
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1267,10 +1267,10 @@ LOTO applies specifically during **servicing and maintenance** — when workers 
 
 **Q70.** A worker removes a coworker's personal lock from a LOTO-controlled machine because the coworker went home for the day and the work must be completed. What violation has occurred?
 
-A) No violation — production needs take priority over LOTO
-B) A serious LOTO violation — removing another worker's personal lock without following proper procedures is a direct OSHA violation and places the coworker (who may not have actually left) in danger
-C) A minor administrative violation requiring only a written warning
-D) Only a violation if the coworker was still near the machine
+- A) No violation — production needs take priority over LOTO
+- B) A serious LOTO violation — removing another worker's personal lock without following proper procedures is a direct OSHA violation and places the coworker (who may not have actually left) in danger
+- C) A minor administrative violation requiring only a written warning
+- D) Only a violation if the coworker was still near the machine
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1289,10 +1289,10 @@ Removing another employee's personal lock is a serious LOTO violation. The only 
 
 **Q71.** The four-step sequence that defines industrial hygiene practice is:
 
-A) Sample, analyze, report, correct
-B) Identify, measure, assess, remediate
-C) Anticipate, recognize, evaluate, control
-D) Survey, sample, evaluate, remediate
+- A) Sample, analyze, report, correct
+- B) Identify, measure, assess, remediate
+- C) Anticipate, recognize, evaluate, control
+- D) Survey, sample, evaluate, remediate
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1307,10 +1307,10 @@ D) Survey, sample, evaluate, remediate
 
 **Q72.** Personal air sampling is considered the gold standard for occupational exposure assessment because:
 
-A) It uses the most expensive laboratory analytical methods
-B) The sampling device is worn in the worker's breathing zone, capturing actual exposure including movement through different areas and tasks
-C) It is required by OSHA for all hazardous chemical monitoring
-D) It gives instantaneous concentration readings rather than time-averaged results
+- A) It uses the most expensive laboratory analytical methods
+- B) The sampling device is worn in the worker's breathing zone, capturing actual exposure including movement through different areas and tasks
+- C) It is required by OSHA for all hazardous chemical monitoring
+- D) It gives instantaneous concentration readings rather than time-averaged results
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1325,10 +1325,10 @@ Personal sampling captures actual worker exposure by placing the sampling device
 
 **Q73.** Biological monitoring for workers exposed to organophosphate pesticides measures which biomarker?
 
-A) Blood lead level
-B) Serum cholesterol
-C) Cholinesterase (RBC and/or plasma) activity level
-D) Urine benzene metabolite (trans,trans-muconic acid)
+- A) Blood lead level
+- B) Serum cholesterol
+- C) Cholinesterase (RBC and/or plasma) activity level
+- D) Urine benzene metabolite (trans,trans-muconic acid)
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1343,10 +1343,10 @@ Organophosphate (and carbamate) pesticides work by inhibiting cholinesterase —
 
 **Q74.** Under OSHA's Process Safety Management standard (29 CFR 1910.119), PSM compliance audits must be performed at least:
 
-A) Annually
-B) Every 2 years
-C) Every 3 years
-D) Every 5 years
+- A) Annually
+- B) Every 2 years
+- C) Every 3 years
+- D) Every 5 years
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1361,10 +1361,10 @@ PSM compliance audits must be conducted **at least every 3 years**. The audit ve
 
 **Q75.** OSHA's PSM standard and EPA's Risk Management Program (RMP) both apply to many of the same facilities. What is the primary difference in their focus?
 
-A) PSM covers outdoor releases; RMP covers indoor worker exposures
-B) PSM focuses on worker safety; RMP focuses on community and environmental protection, including off-site consequence analysis
-C) PSM is voluntary; RMP is mandatory
-D) PSM applies only to chemical plants; RMP applies to all industries
+- A) PSM covers outdoor releases; RMP covers indoor worker exposures
+- B) PSM focuses on worker safety; RMP focuses on community and environmental protection, including off-site consequence analysis
+- C) PSM is voluntary; RMP is mandatory
+- D) PSM applies only to chemical plants; RMP applies to all industries
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1383,10 +1383,10 @@ PSM (OSHA) = protecting workers inside the facility fence. RMP (EPA) = protectin
 
 **Q76.** The OSHA Action Level for benzene under 29 CFR 1910.1028 is:
 
-A) 1 ppm (the PEL)
-B) 5 ppm (the STEL)
-C) 0.5 ppm
-D) 0.1 ppm
+- A) 1 ppm (the PEL)
+- B) 5 ppm (the STEL)
+- C) 0.5 ppm
+- D) 0.1 ppm
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1401,10 +1401,10 @@ Benzene's action level is **0.5 ppm** — half the PEL of 1 ppm. At or above the
 
 **Q77.** The OSHA lead standard (29 CFR 1910.1025) requires Medical Removal Protection (MRP) when a worker's blood lead level (BLL) reaches:
 
-A) 30 µg/dL
-B) 40 µg/dL
-C) 50 µg/dL
-D) 75 µg/dL
+- A) 30 µg/dL
+- B) 40 µg/dL
+- C) 50 µg/dL
+- D) 75 µg/dL
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1419,10 +1419,10 @@ Medical removal is triggered when BLL reaches **50 µg/dL**. The worker must be 
 
 **Q78.** The OSHA asbestos PEL for general industry is:
 
-A) 0.01 fiber/cm³ (8-hour TWA)
-B) 0.1 fiber/cm³ (8-hour TWA)
-C) 1.0 fiber/cm³ (8-hour TWA)
-D) 0.5 fiber/cm³ (8-hour TWA)
+- A) 0.01 fiber/cm³ (8-hour TWA)
+- B) 0.1 fiber/cm³ (8-hour TWA)
+- C) 1.0 fiber/cm³ (8-hour TWA)
+- D) 0.5 fiber/cm³ (8-hour TWA)
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1437,10 +1437,10 @@ The asbestos PEL is **0.1 fiber per cubic centimeter (f/cm³)** as an 8-hour TWA
 
 **Q79.** Under the OSH Act's recordkeeping requirements, a work-related injury resulting in medical treatment beyond first aid must be recorded on the:
 
-A) OSHA Form 300 (Log of Work-Related Injuries and Illnesses)
-B) OSHA Form 300A (Annual Summary only)
-C) The company's internal incident report system only
-D) A special form submitted to OSHA within 5 working days
+- A) OSHA Form 300 (Log of Work-Related Injuries and Illnesses)
+- B) OSHA Form 300A (Annual Summary only)
+- C) The company's internal incident report system only
+- D) A special form submitted to OSHA within 5 working days
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1455,10 +1455,10 @@ The OSHA 300 Log is the running log where each recordable injury and illness is 
 
 **Q80.** A work-related amputation occurs on a Tuesday afternoon at 3 PM. When must the employer report this to OSHA?
 
-A) Within 8 hours — by 11 PM Tuesday
-B) Within 24 hours — by 3 PM Wednesday
-C) Within 48 hours — by 3 PM Thursday
-D) By the next business day — by 5 PM Wednesday
+- A) Within 8 hours — by 11 PM Tuesday
+- B) Within 24 hours — by 3 PM Wednesday
+- C) Within 48 hours — by 3 PM Thursday
+- D) By the next business day — by 5 PM Wednesday
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1473,10 +1473,10 @@ Amputations must be reported to OSHA within **24 hours** of the employer learnin
 
 **Q81.** Which OSHA standard covers workers who have occupational exposure to blood and other potentially infectious materials?
 
-A) 29 CFR 1910.1028 (benzene)
-B) 29 CFR 1910.1030 (bloodborne pathogens)
-C) 29 CFR 1910.119 (PSM)
-D) 29 CFR 1910.120 (HAZWOPER)
+- A) 29 CFR 1910.1028 (benzene)
+- B) 29 CFR 1910.1030 (bloodborne pathogens)
+- C) 29 CFR 1910.119 (PSM)
+- D) 29 CFR 1910.120 (HAZWOPER)
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1491,10 +1491,10 @@ D) 29 CFR 1910.120 (HAZWOPER)
 
 **Q82.** The Bloodborne Pathogens standard requires employers to offer Hepatitis B vaccinations to covered employees:
 
-A) Only after a documented exposure incident
-B) Only for employees who request it and pay a copay
-C) At no cost to the employee, before their initial assignment to tasks with occupational exposure
-D) Within 10 working days of a documented exposure incident
+- A) Only after a documented exposure incident
+- B) Only for employees who request it and pay a copay
+- C) At no cost to the employee, before their initial assignment to tasks with occupational exposure
+- D) Within 10 working days of a documented exposure incident
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1509,10 +1509,10 @@ Hepatitis B vaccination must be offered at **no cost to the employee and before 
 
 **Q83.** Which OSHA standard governs work that involves hot work (welding, cutting, grinding) in process areas at facilities with highly hazardous chemicals?
 
-A) 29 CFR 1910.147 (LOTO only)
-B) 29 CFR 1910.119 (PSM) — which includes a Hot Work Permit element
-C) 29 CFR 1926.352 (fire prevention in construction)
-D) No specific OSHA standard — hot work is governed by NFPA 51B only
+- A) 29 CFR 1910.147 (LOTO only)
+- B) 29 CFR 1910.119 (PSM) — which includes a Hot Work Permit element
+- C) 29 CFR 1926.352 (fire prevention in construction)
+- D) No specific OSHA standard — hot work is governed by NFPA 51B only
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1527,10 +1527,10 @@ PSM (29 CFR 1910.119) contains a Hot Work Permit element as one of its 14 requir
 
 **Q84.** Under OSHA's PSM standard, who must be involved in the Process Hazard Analysis (PHA)?
 
-A) Only professional engineers and safety officers
-B) At least one person with expertise in engineering and process operations, plus at least one worker who currently operates the process
-C) The employer and OSHA jointly conduct all PHAs
-D) External consultants only — employees with operational knowledge are excluded to avoid bias
+- A) Only professional engineers and safety officers
+- B) At least one person with expertise in engineering and process operations, plus at least one worker who currently operates the process
+- C) The employer and OSHA jointly conduct all PHAs
+- D) External consultants only — employees with operational knowledge are excluded to avoid bias
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1545,10 +1545,10 @@ PSM requires that the PHA team include: at least one person with expertise in en
 
 **Q85.** Under OSHA's Management of Change (MOC) element of PSM, which of the following triggers the MOC procedure?
 
-A) Routine maintenance that returns equipment to its original design specifications
-B) A "temporary" change to process chemistry, equipment, or procedures that alters the process from its original design intent
-C) Changes to the facility's administrative phone directory
-D) Only permanent changes to equipment are covered under MOC
+- A) Routine maintenance that returns equipment to its original design specifications
+- B) A "temporary" change to process chemistry, equipment, or procedures that alters the process from its original design intent
+- C) Changes to the facility's administrative phone directory
+- D) Only permanent changes to equipment are covered under MOC
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1567,10 +1567,10 @@ Management of Change applies to changes to process chemicals, technology, equipm
 
 **Q86.** An industrial hygienist is called to investigate a worker complaint about a chemical smell in an office area above a chemical storage room. Which is the FIRST step in the industrial hygiene approach?
 
-A) Sample the air immediately
-B) Review the SDS for chemicals stored below and evaluate whether the reported odor is consistent with the stored chemicals — anticipating and recognizing the potential hazard before sampling
-C) Issue respirators to all office workers immediately
-D) Contact OSHA to report the potential exposure
+- A) Sample the air immediately
+- B) Review the SDS for chemicals stored below and evaluate whether the reported odor is consistent with the stored chemicals — anticipating and recognizing the potential hazard before sampling
+- C) Issue respirators to all office workers immediately
+- D) Contact OSHA to report the potential exposure
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1585,10 +1585,10 @@ The industrial hygiene process starts with ANTICIPATE and RECOGNIZE — before s
 
 **Q87.** Three workers die in a grain storage silo over a 20-minute period. The first enters and collapses. The second enters to help and collapses. The third enters without PPE to help both. All three die. Which OSHA standards were most directly violated in this sequence of events?
 
-A) HAZWOPER only — it was an emergency response situation
-B) PSM — grain storage is a covered process
-C) Permit-Required Confined Spaces (1910.146) — the space should have been atmospheric-tested, permitted, and no one should have entered without SCBA as a non-entry rescue was required; the attendant (if present) should not have allowed additional entry
-D) Bloodborne Pathogens — body fluid contact during rescue
+- A) HAZWOPER only — it was an emergency response situation
+- B) PSM — grain storage is a covered process
+- C) Permit-Required Confined Spaces (1910.146) — the space should have been atmospheric-tested, permitted, and no one should have entered without SCBA as a non-entry rescue was required; the attendant (if present) should not have allowed additional entry
+- D) Bloodborne Pathogens — body fluid contact during rescue
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1603,10 +1603,10 @@ This is a textbook confined space fatality cascade — and one of the most commo
 
 **Q88.** A maintenance worker is replacing a pump on a chemical process line. The line contains a toxic liquid under 150 psi pressure. Before starting work, the worker closes the upstream isolation valve but does not open a drain valve to verify the line is depressurized and does not lock out the valve. When he opens the pump flange, toxic liquid sprays under pressure, causing severe chemical burns. Which control failure is the PRIMARY cause?
 
-A) Failure to wear Level A PPE during pump maintenance
-B) Failure to properly implement LOTO procedures — specifically failing to verify zero energy state (residual hydraulic pressure was not released/verified)
-C) Failure to consult the SDS before beginning work
-D) Failure to notify OSHA before beginning confined space entry
+- A) Failure to wear Level A PPE during pump maintenance
+- B) Failure to properly implement LOTO procedures — specifically failing to verify zero energy state (residual hydraulic pressure was not released/verified)
+- C) Failure to consult the SDS before beginning work
+- D) Failure to notify OSHA before beginning confined space entry
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1621,10 +1621,10 @@ The primary failure was LOTO — specifically: (1) no lock applied to the isolat
 
 **Q89.** An employer conducts initial air monitoring at a new job site and finds that chemical concentrations are consistently below detection limits for all contaminants. Workers still complain of headaches and fatigue. What additional monitoring approach would most directly evaluate whether the workers' symptoms have a work-related cause?
 
-A) Repeat air sampling at a different time of day
-B) Conduct biological monitoring to assess body burden from all routes of exposure, not just inhalation
-C) Issue Level A PPE until the cause is identified
-D) Contact OSHA and request an inspection
+- A) Repeat air sampling at a different time of day
+- B) Conduct biological monitoring to assess body burden from all routes of exposure, not just inhalation
+- C) Issue Level A PPE until the cause is identified
+- D) Contact OSHA and request an inspection
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1639,10 +1639,10 @@ Biological monitoring evaluates the total body burden from all exposure routes �
 
 **Q90.** A chemical plant PSM audit reveals that the Process Hazard Analysis (PHA) for the chlorine process was last conducted 7 years ago and has never been updated to reflect equipment changes made 3 years ago. What violations exist?
 
-A) No violation — PHAs are required only once at startup
-B) Two violations: (1) PHA must be revalidated at least every 5 years (the 7-year gap violates this), and (2) Management of Change was likely violated when equipment changed without updating the PHA
-C) Only one violation — the 5-year PHA revalidation requirement was missed
-D) Violation of EPCRA only — PSM does not require regular PHA updates
+- A) No violation — PHAs are required only once at startup
+- B) Two violations: (1) PHA must be revalidated at least every 5 years (the 7-year gap violates this), and (2) Management of Change was likely violated when equipment changed without updating the PHA
+- C) Only one violation — the 5-year PHA revalidation requirement was missed
+- D) Violation of EPCRA only — PSM does not require regular PHA updates
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1657,10 +1657,10 @@ Two independent PSM violations exist: (1) PSM requires PHA revalidation at least
 
 **Q91.** A worker is exposed to methyl isocyanate (the Bhopal chemical) at a facility in the US where it is used in pesticide manufacturing. The worker's employer says "there's no specific OSHA standard for MIC exposure, so we're not required to monitor or protect workers." Is this correct?
 
-A) Yes — without a specific standard, no OSHA requirements apply
-B) No — the General Duty Clause requires protection from recognized hazards that could cause serious harm, regardless of whether a specific standard exists; MIC is one of the most toxic industrial chemicals known
-C) Correct — only EPCRA Section 302 applies (MIC has a 500-lb TPQ)
-D) Yes — but only EPA has jurisdiction since MIC causes environmental harm
+- A) Yes — without a specific standard, no OSHA requirements apply
+- B) No — the General Duty Clause requires protection from recognized hazards that could cause serious harm, regardless of whether a specific standard exists; MIC is one of the most toxic industrial chemicals known
+- C) Correct — only EPCRA Section 302 applies (MIC has a 500-lb TPQ)
+- D) Yes — but only EPA has jurisdiction since MIC causes environmental harm
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1675,10 +1675,10 @@ The General Duty Clause (Section 5(a)(1)) fills exactly this gap. MIC's extreme 
 
 **Q92.** Under OSHA's bloodborne pathogens standard, which of the following items is considered "Other Potentially Infectious Material" (OPIM)?
 
-A) Nasal secretions from a worker with a cold
-B) Urine from a worker taking medications
-C) Any body fluid visibly contaminated with blood
-D) Sweat from workers in high-heat environments
+- A) Nasal secretions from a worker with a cold
+- B) Urine from a worker taking medications
+- C) Any body fluid visibly contaminated with blood
+- D) Sweat from workers in high-heat environments
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1693,10 +1693,10 @@ OPIM under 1910.1030 includes: semen, vaginal secretions, cerebrospinal fluid, s
 
 **Q93.** A newly hired worker at a hazardous waste facility is told by their supervisor "you don't need to see the Safety Data Sheets — just follow what everyone else does." Under OSHA HazCom (29 CFR 1910.1200), is this acceptable?
 
-A) Yes — verbal training from experienced coworkers satisfies HazCom requirements
-B) No — OSHA HazCom requires that SDS be accessible to employees during all work shifts; employees have the right to access SDS at any time and cannot be denied this right by supervisors
-C) Yes — SDS access is only required when an incident occurs
-D) Yes — but the employer must make the SDS available within 48 hours of a request
+- A) Yes — verbal training from experienced coworkers satisfies HazCom requirements
+- B) No — OSHA HazCom requires that SDS be accessible to employees during all work shifts; employees have the right to access SDS at any time and cannot be denied this right by supervisors
+- C) Yes — SDS access is only required when an incident occurs
+- D) Yes — but the employer must make the SDS available within 48 hours of a request
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1711,10 +1711,10 @@ OSHA HazCom requires that SDS be **accessible to employees during all work shift
 
 **Q94.** Which scenario describes a correct application of the substitution control in the hierarchy of controls?
 
-A) Installing a ventilation hood over a solvent tank
-B) Replacing a highly toxic solvent with a less toxic water-based cleaner that performs the same function
-C) Limiting each worker's daily exposure time to a hazardous machine
-D) Issuing chemical-resistant gloves to all workers handling solvents
+- A) Installing a ventilation hood over a solvent tank
+- B) Replacing a highly toxic solvent with a less toxic water-based cleaner that performs the same function
+- C) Limiting each worker's daily exposure time to a hazardous machine
+- D) Issuing chemical-resistant gloves to all workers handling solvents
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1729,10 +1729,10 @@ Substitution means replacing a hazardous material or process with a less hazardo
 
 **Q95.** An OSHA compliance officer arrives at a facility for an inspection. The facility manager demands to see the inspector's credentials and then requests to accompany the inspector on the walkaround. These requests are:
 
-A) Obstructing a federal investigation — the manager cannot make demands of OSHA inspectors
-B) Entirely within the employer's rights — employers may request credentials and accompany inspectors during the walkaround
-C) Acceptable for the credential request but not for the accompaniment request
-D) Only acceptable if the facility has an active union
+- A) Obstructing a federal investigation — the manager cannot make demands of OSHA inspectors
+- B) Entirely within the employer's rights — employers may request credentials and accompany inspectors during the walkaround
+- C) Acceptable for the credential request but not for the accompaniment request
+- D) Only acceptable if the facility has an active union
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1747,10 +1747,10 @@ Employers have specific rights during OSHA inspections: (1) the right to request
 
 **Q96.** A HAZWOPER-trained incident commander is directing emergency response to a chlorine gas release at an industrial facility. The IC orders evacuation of a residential area within 1,000 feet. The city's mayor arrives and countermands the evacuation order. Who has authority over the emergency response?
 
-A) The mayor — elected officials supersede all emergency responders
-B) The IC remains in command of the technical emergency response per the Incident Command System (ICS); the mayor's authority relates to policy decisions but does not override ICS command during active emergency response
-C) OSHA's on-scene compliance officer takes command
-D) The facility's own safety manager supersedes the IC
+- A) The mayor — elected officials supersede all emergency responders
+- B) The IC remains in command of the technical emergency response per the Incident Command System (ICS); the mayor's authority relates to policy decisions but does not override ICS command during active emergency response
+- C) OSHA's on-scene compliance officer takes command
+- D) The facility's own safety manager supersedes the IC
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1765,10 +1765,10 @@ The Incident Command System (ICS) establishes a clear command structure for emer
 
 **Q97.** Under PSM, when must a Pre-Startup Safety Review (PSSR) be conducted?
 
-A) Annually, regardless of any changes to the process
-B) Before the introduction of a new or highly hazardous chemical process and before startup of a modified process where the change requires a change in the process safety information
-C) Only when OSHA requests it during a compliance audit
-D) After a process incident investigation is completed
+- A) Annually, regardless of any changes to the process
+- B) Before the introduction of a new or highly hazardous chemical process and before startup of a modified process where the change requires a change in the process safety information
+- C) Only when OSHA requests it during a compliance audit
+- D) After a process incident investigation is completed
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1783,10 +1783,10 @@ A PSSR must be performed before startup of new or modified PSM-covered processes
 
 **Q98.** A worker is exposed to a chemical 10 hours per day instead of the standard 8-hour shift. The standard TLV-TWA is 50 ppm (8-hour). Using the brief and Scala model, which of the following correctly describes the adjusted exposure limit?
 
-A) The adjusted limit is 50 ppm — TLV-TWA doesn't change for extended shifts
-B) The adjusted limit must be LOWER than 50 ppm because the worker receives more cumulative dose and has less recovery time between shifts
-C) The adjusted limit is 50 ppm × 10/8 = 62.5 ppm (proportionally higher for longer shift)
-D) No adjustment is needed as long as the 10-hour TWA is below 50 ppm
+- A) The adjusted limit is 50 ppm — TLV-TWA doesn't change for extended shifts
+- B) The adjusted limit must be LOWER than 50 ppm because the worker receives more cumulative dose and has less recovery time between shifts
+- C) The adjusted limit is 50 ppm × 10/8 = 62.5 ppm (proportionally higher for longer shift)
+- D) No adjustment is needed as long as the 10-hour TWA is below 50 ppm
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1801,10 +1801,10 @@ For extended work shifts, TLV-TWAs must be adjusted DOWNWARD — not upward. The
 
 **Q99.** OSHA's most recent penalty update increased maximum penalties significantly. Which of the following describes the current penalty structure for OSHA willful violations?
 
-A) $7,000 to $70,000 per violation (the original 1970 penalty levels)
-B) $16,550 to $165,514 per violation (2024 OSHA penalty levels, adjusted for inflation)
-C) Unlimited penalties — willful violations carry no maximum
-D) $50,000 minimum penalty with no maximum for willful violations
+- A) $7,000 to $70,000 per violation (the original 1970 penalty levels)
+- B) $16,550 to $165,514 per violation (2024 OSHA penalty levels, adjusted for inflation)
+- C) Unlimited penalties — willful violations carry no maximum
+- D) $50,000 minimum penalty with no maximum for willful violations
 
 <details>
 <summary>▶ Show Answer</summary>
@@ -1819,10 +1819,10 @@ OSHA penalties are adjusted annually for inflation. In 2024, willful violation p
 
 **Q100.** An employer has 8 workers injured in a single explosion at a process facility. All 8 are hospitalized. Which OSHA reporting obligation is triggered?
 
-A) File a 300 Log entry for each within 7 days — no other reporting required
-B) Report the in-patient hospitalization of any worker to OSHA within 24 hours — with 8 workers hospitalized, this is both a mandatory reporting requirement AND will trigger a fatality/catastrophe investigation (Priority 2 inspection)
-C) Report only if workers are in critical condition
-D) Report to OSHA only after the workers are released from the hospital
+- A) File a 300 Log entry for each within 7 days — no other reporting required
+- B) Report the in-patient hospitalization of any worker to OSHA within 24 hours — with 8 workers hospitalized, this is both a mandatory reporting requirement AND will trigger a fatality/catastrophe investigation (Priority 2 inspection)
+- C) Report only if workers are in critical condition
+- D) Report to OSHA only after the workers are released from the hospital
 
 <details>
 <summary>▶ Show Answer</summary>
