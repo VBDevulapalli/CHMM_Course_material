@@ -11,10 +11,10 @@
 
 **Q1.** The Occupational Safety and Health Act was signed into law on December 29, 1970, and became effective on which date — now designated "Workers Memorial Day"?
 
-A) January 1, 1971
-B) April 28, 1971
-C) July 4, 1971
-D) December 29, 1971
+> A) January 1, 1971
+> B) April 28, 1971
+>>> C) July 4, 1971
+>> D) December 29, 1971
 
 <details>
 <summary>▶ Show Answer</summary>
